@@ -1,0 +1,3309 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>djl</Author>
+  <LastAuthor>djl</LastAuthor>
+  <Created>2017-03-12T14:40:54Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11265</WindowHeight>
+  <WindowWidth>25245</WindowWidth>
+  <WindowTopX>2700</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="语义网络2.54">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="734" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="50.25"/>
+   <Column ss:Width="73.5"/>
+   <Column ss:Width="282.75"/>
+   <Column ss:Width="387.75"/>
+   <Column ss:Width="1063.5"/>
+   <Column ss:Width="1342.5"/>
+   <Row>
+    <Cell><Data ss:Type="String">分类</Data></Cell>
+    <Cell><Data ss:Type="String">一级类目</Data></Cell>
+    <Cell><Data ss:Type="String">二级类目</Data></Cell>
+    <Cell><Data ss:Type="String">三级类目</Data></Cell>
+    <Cell><Data ss:Type="String">四级类目</Data></Cell>
+    <Cell><Data ss:Type="String">举例</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">人</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">人口、人员、人、人手、家伙、人物、代表、人生、人群、人人、每人、全人类、、人类、私人、个人、有的人、者、现代人、古人、人士</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">基本称谓</Data></Cell>
+    <Cell><Data ss:Type="String">年龄</Data></Cell>
+    <Cell><Data ss:Type="String">婴幼儿</Data></Cell>
+    <Cell><Data ss:Type="String">婴幼儿</Data></Cell>
+    <Cell><Data ss:Type="String">婴儿、幼儿、娃娃</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">小孩</Data></Cell>
+    <Cell><Data ss:Type="String">小孩</Data></Cell>
+    <Cell><Data ss:Type="String">孩子、小孩、儿童、少年儿童、小朋友、小孩子、小儿、小朋友、小鬼、男孩子、小家伙、孩儿、娃、童工</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">年轻人</Data></Cell>
+    <Cell><Data ss:Type="String">青年、中年</Data></Cell>
+    <Cell><Data ss:Type="String">大人、成人、小青年、年轻人、青年人、中年人、成年人、郎</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">女性</Data></Cell>
+    <Cell><Data ss:Type="String">女、少女、姑娘、妇女、妇人、女人、女子、夫人、贤淑、少妇、女性、女孩、女孩子、妹子、小女孩、女士、寡妇、妇、女生、小姐、阿姨、千金、女郎、闺女、丫头、女的、女工、小姑娘</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">男性</Data></Cell>
+    <Cell><Data ss:Type="String">男仔、男人、男、男孩、男子、小伙子、小子、少年、男性、男子汉、伙计、哥们、少爷、汉子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">老年人</Data></Cell>
+    <Cell><Data ss:Type="String">老年人</Data></Cell>
+    <Cell><Data ss:Type="String">老一辈、他老人家、老工人、农奴、老人家</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">老年女性</Data></Cell>
+    <Cell><Data ss:Type="String">老太婆、大娘、老太太、老大娘、婆、老奶奶、姥姥、大妈</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">老年男性</Data></Cell>
+    <Cell><Data ss:Type="String">大爷、叟、老、丈、老丈、老先生、长者、老先生、老人、翁、台翁、爷爷、老爷、爷、老头、公公、老大爷、老爷爷、大爷、老头儿、老生、老头子、老汉、老年人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">礼俗</Data></Cell>
+    <Cell><Data ss:Type="String">等级、荣誉称号</Data></Cell>
+    <Cell><Data ss:Type="String">等级、荣誉称号</Data></Cell>
+    <Cell><Data ss:Type="String">冠军</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">谦称、自称</Data></Cell>
+    <Cell><Data ss:Type="String">谦称、自称</Data></Cell>
+    <Cell><Data ss:Type="String">本人、人家、臣、老子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">尊称</Data></Cell>
+    <Cell><Data ss:Type="String">尊称</Data></Cell>
+    <Cell><Data ss:Type="String">先生、小姐、老弟、老兄、亲、大姐、大叔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">宗族</Data></Cell>
+    <Cell><Data ss:Type="String">宗族</Data></Cell>
+    <Cell><Data ss:Type="String">宗族</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">名号</Data></Cell>
+    <Cell><Data ss:Type="String">名号</Data></Cell>
+    <Cell><Data ss:Type="String">名号</Data></Cell>
+    <Cell><Data ss:Type="String">处、姓名、姓、氏族、名、名字、台、般、名称</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">代号、别称</Data></Cell>
+    <Cell><Data ss:Type="String">代号、别称</Data></Cell>
+    <Cell><Data ss:Type="String">代号、别称</Data></Cell>
+    <Cell><Data ss:Type="String">甲、乙、丙、丁、主人公、主人翁、某人、此人、对方、双方</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">人物、名人</Data></Cell>
+    <Cell><Data ss:Type="String">香港名星</Data></Cell>
+    <Cell><Data ss:Type="String">香港名星</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">运动员</Data></Cell>
+    <Cell><Data ss:Type="String">运动员</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">四人帮</Data></Cell>
+    <Cell><Data ss:Type="String">四人帮</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">NBA</Data></Cell>
+    <Cell><Data ss:Type="String">NBA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">各类人</Data></Cell>
+    <Cell><Data ss:Type="String">职业、行当</Data></Cell>
+    <Cell><Data ss:Type="String">行业</Data></Cell>
+    <Cell><Data ss:Type="String">行业（包括工人、商人、服务人员）</Data></Cell>
+    <Cell><Data ss:Type="String">职工、演员、作家、记者、诗人、厂长、工作者、律师、厨师、牧师、新闻工作者、新闻记者、研究者、牧民、庄稼人、原始人、劳工、艺人、民工、总工程师、驾驶员、宇航员、炊事员、营业员、妓女、魔术师、飞行员、司机、服务员、手工业者、猎人、长工、武生、饲养员、水手、技术员、社长、部长、医生、大夫、护士、医师、工人、打工仔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">主人</Data></Cell>
+    <Cell><Data ss:Type="String">主人</Data></Cell>
+    <Cell><Data ss:Type="String">财主、创造者、所有者、笔者、作者、创始人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">专业</Data></Cell>
+    <Cell><Data ss:Type="String">专业</Data></Cell>
+    <Cell><Data ss:Type="String">科学家、经济学家、艺术家、革命家、理论家、政治经济学、文学家、天文学家、政治家、剧作家、语言学家、经济学家、教育家、生物学家、评论家、社会学家、心理学家、思想家、舞蹈家、化学家、数学家、哲学家、作曲家、物理学家、专业户、技术人员</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">普通大众</Data></Cell>
+    <Cell><Data ss:Type="String">普通大众</Data></Cell>
+    <Cell><Data ss:Type="String">人民、人民群众、平民、工人、农民、国民、劳动者、劳动人民、群众、老百姓、众人、男女老少、听众、众、听者、人们、观众、公民、居民、民、大家、人民大众、乡亲、平民、穷人、乡亲们、世人、众生、村民、普通人、乡下人、基层、民众、百姓、一般人、大众、市民、全民</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">研究学习</Data></Cell>
+    <Cell><Data ss:Type="String">研究学习</Data></Cell>
+    <Cell><Data ss:Type="String">老师、学者、学生、读者、师傅、师、博士、大学生、高中生、中学生、小学生、中专生、校长、师父、子弟、导师、受教育者、观察者、教育者、徒弟、秀才</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">军事</Data></Cell>
+    <Cell><Data ss:Type="String">军事</Data></Cell>
+    <Cell><Data ss:Type="String">军、军人、红军、战士、兵、官兵、民兵、军官、团长、总理、主席、总统、八路军、革命军、突击队、北伐军、车队、连队、志愿军、八路、日本兵、日军、方面军、军团、中队、游击队、中国队、大军、起义军、新四军、司令部、人民解放军、伪军、小队、委员长、汉奸、士兵、参谋长、参谋、侵略军、指挥员、新兵、共产党员、指导员警察、军警、鬼子、通讯员、教导员、水兵、宪兵、清军、苏军、步兵、将军、骑兵、总司令、司令员、老兵、兵士、炮兵、元帅、军长、排长、侦察员、委员、师长</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">政府、要员</Data></Cell>
+    <Cell><Data ss:Type="String">政府、要员</Data></Cell>
+    <Cell><Data ss:Type="String">议员、领袖、共产党人、毛主席、支书、国民政府、官僚主义、党委书记、老干部、马克思主义者、政委、大总统、县政府、官员、总书记、政治委员、副主席、长官、法官、公安局、革命者、使者、警长、土司、领主、公使、常务委员会、公务员、首相、乡长、候选人、省长、检察官、武士、区长、团员、秘书长、首脑、官、党员、书记、主任、警察、干部、政府工作人员、局长、科长、所长、县长</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">古代官职</Data></Cell>
+    <Cell><Data ss:Type="String">古代官职</Data></Cell>
+    <Cell><Data ss:Type="String">皇帝、君、君主、国王、县令、宰相、皇、皇上、陛下、皇后、君主、太监、宰相、公主、太子、女王、王子、勇士、士大夫、大将、大臣、秀才</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">外国官职</Data></Cell>
+    <Cell><Data ss:Type="String">外国官职</Data></Cell>
+    <Cell><Data ss:Type="String">男爵、天皇、教皇</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">某种权利</Data></Cell>
+    <Cell><Data ss:Type="String">某种权利</Data></Cell>
+    <Cell><Data ss:Type="String">决策者、统治者、头子、管理者、董事长、管理员、管家、掌柜、东家、裁判、选民、主席团、酋长、导班子、领队、组长、老大、头儿、首、王、大王、财主、地主、总经理、总裁、房东、站长</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">移动、游离</Data></Cell>
+    <Cell><Data ss:Type="String">移动、游离</Data></Cell>
+    <Cell><Data ss:Type="String">移民、流浪汉、江湖佬、蒙古大夫</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">贸易、经营、消费</Data></Cell>
+    <Cell><Data ss:Type="String">贸易、经营、消费</Data></Cell>
+    <Cell><Data ss:Type="String">经销商、供应商、零售商、买家、卖家、资本家、个体户、售货员、投资者、生产者、用户</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">传教</Data></Cell>
+    <Cell><Data ss:Type="String">传教</Data></Cell>
+    <Cell><Data ss:Type="String">尼姑、道士、传教士、和尚、僧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">右派分子、反革命分子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">性格、品行</Data></Cell>
+    <Cell><Data ss:Type="String">天赋</Data></Cell>
+    <Cell><Data ss:Type="String">聪明</Data></Cell>
+    <Cell><Data ss:Type="String">机灵鬼、人精、糊涂虫、智者</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">愚笨</Data></Cell>
+    <Cell><Data ss:Type="String">猪头</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">性格</Data></Cell>
+    <Cell><Data ss:Type="String">八卦</Data></Cell>
+    <Cell><Data ss:Type="String">八婆、鸡婆、八卦妹</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">奇怪</Data></Cell>
+    <Cell><Data ss:Type="String">变态、怪胎</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">执着</Data></Cell>
+    <Cell><Data ss:Type="String">偏执狂、顽固分子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">奸诈</Data></Cell>
+    <Cell><Data ss:Type="String">奸臣</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">乐观</Data></Cell>
+    <Cell><Data ss:Type="String">开心果</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">蛮横</Data></Cell>
+    <Cell><Data ss:Type="String">母老虎</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">习俗</Data></Cell>
+    <Cell><Data ss:Type="String">坏习惯</Data></Cell>
+    <Cell><Data ss:Type="String">败家仔、懒虫、二流子、痞子、冒失鬼</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">好习惯</Data></Cell>
+    <Cell><Data ss:Type="String">积极分子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">品质</Data></Cell>
+    <Cell><Data ss:Type="String">差</Data></Cell>
+    <Cell><Data ss:Type="String">人渣、叛徒、流氓、贼、扒手、殖民者、坏人、侵略者、土匪、骗子、匪徒、歹徒</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">好</Data></Cell>
+    <Cell><Data ss:Type="String">好人、忠士、好汉、孝子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">基佬、百合、蕾丝</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">外表</Data></Cell>
+    <Cell><Data ss:Type="String">样貌</Data></Cell>
+    <Cell><Data ss:Type="String">美好</Data></Cell>
+    <Cell><Data ss:Type="String">美女、美人、靓仔、仔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">丑陋</Data></Cell>
+    <Cell><Data ss:Type="String">丑八怪、长毛贼</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">皮肤</Data></Cell>
+    <Cell><Data ss:Type="String">黑人、黄种人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">小胡子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体型</Data></Cell>
+    <Cell><Data ss:Type="String">身高</Data></Cell>
+    <Cell><Data ss:Type="String">矮子、巨人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">身材</Data></Cell>
+    <Cell><Data ss:Type="String">壮汉、肥佬</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体征</Data></Cell>
+    <Cell><Data ss:Type="String">异常（异于习惯）</Data></Cell>
+    <Cell><Data ss:Type="String">左撇子、馋猫</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">毛病</Data></Cell>
+    <Cell><Data ss:Type="String">四眼仔、大舌头</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">体残</Data></Cell>
+    <Cell><Data ss:Type="String">瞎子、瘸子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">智障</Data></Cell>
+    <Cell><Data ss:Type="String">白痴</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">打扮（俗雅）</Data></Cell>
+    <Cell><Data ss:Type="String">打扮（俗雅）</Data></Cell>
+    <Cell><Data ss:Type="String">乡巴佬、土包子、绅士、君子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">状况</Data></Cell>
+    <Cell><Data ss:Type="String">非常态</Data></Cell>
+    <Cell><Data ss:Type="String">醉汉、失魂鱼、醉汉、病人、患者、伤兵、伤员、病员</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">变化</Data></Cell>
+    <Cell><Data ss:Type="String">孕妇</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">其他（身份、境况）</Data></Cell>
+    <Cell><Data ss:Type="String">孤寡</Data></Cell>
+    <Cell><Data ss:Type="String">孤家寡人</Data></Cell>
+    <Cell><Data ss:Type="String">单身汉、老姑婆、无主冤魂、寡妇、孤儿</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">不幸者、尴尬者</Data></Cell>
+    <Cell><Data ss:Type="String">不幸者、尴尬者</Data></Cell>
+    <Cell><Data ss:Type="String">苦命人、扫把星、被害人、灾民、难民、乞丐、残疾人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">存活状态</Data></Cell>
+    <Cell><Data ss:Type="String">存活状态</Data></Cell>
+    <Cell><Data ss:Type="String">死人、活人、死者、活</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">能力</Data></Cell>
+    <Cell><Data ss:Type="String">能力</Data></Cell>
+    <Cell><Data ss:Type="String">人才、天才、知识青年、知识分子、教授、副教授、专家、顾问</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">偶像</Data></Cell>
+    <Cell><Data ss:Type="String">偶像</Data></Cell>
+    <Cell><Data ss:Type="String">女神、男神、仙女、圣人、英雄人物、英雄、活雷锋、白富美、高富帅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">拥护者</Data></Cell>
+    <Cell><Data ss:Type="String">拥护者</Data></Cell>
+    <Cell><Data ss:Type="String">粉丝、屌丝、爱好者、欣赏者</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">债务、继承</Data></Cell>
+    <Cell><Data ss:Type="String">债务、继承</Data></Cell>
+    <Cell><Data ss:Type="String">债务人、继承人、接班人、后裔、后人、法人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">外地</Data></Cell>
+    <Cell><Data ss:Type="String">外地人、海外华人</Data></Cell>
+    <Cell><Data ss:Type="String">唐人、江西老表、北方人、南方人、北京人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">中国、外国</Data></Cell>
+    <Cell><Data ss:Type="String">中国、外国人</Data></Cell>
+    <Cell><Data ss:Type="String">中国人、外国人、黑人、非洲人、美国人、日本人、英国人、阿拉伯人、印第安人、白人、华人、国人、犹太人、汉人、洋人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">当事人、机器人、猿人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">关系</Data></Cell>
+    <Cell><Data ss:Type="String">家庭</Data></Cell>
+    <Cell><Data ss:Type="String">父系</Data></Cell>
+    <Cell><Data ss:Type="String">父系</Data></Cell>
+    <Cell><Data ss:Type="String">父亲、爹、爸爸、叔叔、大婶、伯伯、伯、大伯、堂妹夫、堂弟、堂内弟、堂妹、堂妻妹，堂哥、堂内兄、堂姐、堂妻姐、爸、父、二叔、姑姑、婶子、婶</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">母系</Data></Cell>
+    <Cell><Data ss:Type="String">母系</Data></Cell>
+    <Cell><Data ss:Type="String">母亲、娘、妈妈、表弟、夫表弟，表妹、夫表妹，表兄、夫表兄、表姐、夫表姐、阿妈</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">夫系</Data></Cell>
+    <Cell><Data ss:Type="String">夫系</Data></Cell>
+    <Cell><Data ss:Type="String">公公、婆婆、丈夫、新郎、夫</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">妻系</Data></Cell>
+    <Cell><Data ss:Type="String">妻系</Data></Cell>
+    <Cell><Data ss:Type="String">岳父、岳母、娘子、老婆、媳妇、妻子、妻、夫人、太太、爱人、夫人、新娘</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">合称</Data></Cell>
+    <Cell><Data ss:Type="String">合称</Data></Cell>
+    <Cell><Data ss:Type="String">父女、父母、母女、家里人、母子、父子、男女、父子、子孙、兄妹、爹妈、夫妇、姊妹、姐妹、兄弟、夫妻</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">家人</Data></Cell>
+    <Cell><Data ss:Type="String">家人</Data></Cell>
+    <Cell><Data ss:Type="String">家属、家长、一家人、家人、家族、家里人、娘家、一家、亲属、亲戚</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">辈分</Data></Cell>
+    <Cell><Data ss:Type="String">家族长辈</Data></Cell>
+    <Cell><Data ss:Type="String">长辈、高祖、曾祖、祖、奶奶、祖宗、祖父、祖母</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">亲戚长辈</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">家族平辈</Data></Cell>
+    <Cell><Data ss:Type="String">兄弟、手足、老二、老三、二哥、兄、哥哥、大哥、长子、姐姐、妹妹、弟弟、弟、嫂子、大嫂、嫂嫂、嫂、姊</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">家族后辈</Data></Cell>
+    <Cell><Data ss:Type="String">儿子、女婿、女儿、子女、儿女、女、子、孙、曾孙、玄孙、孙子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">亲戚后辈</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">亲戚</Data></Cell>
+    <Cell><Data ss:Type="String">亲家、亲友</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">社交</Data></Cell>
+    <Cell><Data ss:Type="String">共事</Data></Cell>
+    <Cell><Data ss:Type="String">共事</Data></Cell>
+    <Cell><Data ss:Type="String">战友、队长、队员、同事、工友、职员、同志们、老同志、班长、工作人员、弟兄</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">同道</Data></Cell>
+    <Cell><Data ss:Type="String">闺蜜、朋友、情人、婚嫁人物</Data></Cell>
+    <Cell><Data ss:Type="String">好友、闺蜜、朋友、伙伴、死党、发小、同龄人、媒人、拍档、猪朋狗友、老朋友、好朋友、友、朋友们、好友</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">学习</Data></Cell>
+    <Cell><Data ss:Type="String">老师、学生、同学</Data></Cell>
+    <Cell><Data ss:Type="String">同学、老师、教练、学生、留学生、考生、学员</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">对立</Data></Cell>
+    <Cell><Data ss:Type="String">对立</Data></Cell>
+    <Cell><Data ss:Type="String">敌人、敌、对手</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">纠纷</Data></Cell>
+    <Cell><Data ss:Type="String">纠纷</Data></Cell>
+    <Cell><Data ss:Type="String">被告人、被告</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">邻里</Data></Cell>
+    <Cell><Data ss:Type="String">邻里</Data></Cell>
+    <Cell><Data ss:Type="String">邻居、舍友、室友</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">客人</Data></Cell>
+    <Cell><Data ss:Type="String">客人</Data></Cell>
+    <Cell><Data ss:Type="String">游客、客人、客、客户、游人、宾客、旅客</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">陌生人、熟人</Data></Cell>
+    <Cell><Data ss:Type="String">陌生人、熟人</Data></Cell>
+    <Cell><Data ss:Type="String">陌生人、熟人、老乡、外人、来人、新人、旁人、行人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">亲密</Data></Cell>
+    <Cell><Data ss:Type="String">亲密关系</Data></Cell>
+    <Cell><Data ss:Type="String">伴侣、老伴、女方、男方、情人、配偶、同伴、近亲、一对、亲人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">契约</Data></Cell>
+    <Cell><Data ss:Type="String">契约</Data></Cell>
+    <Cell><Data ss:Type="String">老板、上司、领导、领导者、领导人、上级、经理、下属、部下、主人、主、工程师、学徒、弟子、负责人、下属、老大、上司、共青团员、仆人、奴才、奴、奴隶主、奴隶</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">利益</Data></Cell>
+    <Cell><Data ss:Type="String">利益关系</Data></Cell>
+    <Cell><Data ss:Type="String">律师、秘书、消费者、合作者、提供商、服务者、商人、厂商、企业家、老板、顾客、乘客、买主</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">媒人、基督徒</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">外貌</Data></Cell>
+    <Cell><Data ss:Type="String">外貌</Data></Cell>
+    <Cell><Data ss:Type="String">外貌</Data></Cell>
+    <Cell><Data ss:Type="String">外貌</Data></Cell>
+    <Cell><Data ss:Type="String">外表、形象、身材、相貌、表面</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">肖像</Data></Cell>
+    <Cell><Data ss:Type="String">肖像</Data></Cell>
+    <Cell><Data ss:Type="String">脸色、肤色</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">神态</Data></Cell>
+    <Cell><Data ss:Type="String">神态</Data></Cell>
+    <Cell><Data ss:Type="String">神态、病态、举止、姿势、举动、表情</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体质</Data></Cell>
+    <Cell><Data ss:Type="String">体质</Data></Cell>
+    <Cell><Data ss:Type="String">体质</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">精神</Data></Cell>
+    <Cell><Data ss:Type="String">精神</Data></Cell>
+    <Cell><Data ss:Type="String">精神、精力</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">打扮</Data></Cell>
+    <Cell><Data ss:Type="String">打扮</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">谈吐</Data></Cell>
+    <Cell><Data ss:Type="String">谈吐</Data></Cell>
+    <Cell><Data ss:Type="String">语气</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">心理</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">内心、心理</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">认知</Data></Cell>
+    <Cell><Data ss:Type="String">态度</Data></Cell>
+    <Cell><Data ss:Type="String">态度</Data></Cell>
+    <Cell><Data ss:Type="String">态度、脾气、作风、立场</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">看法</Data></Cell>
+    <Cell><Data ss:Type="String">看法</Data></Cell>
+    <Cell><Data ss:Type="String">意见、观念、看法、意见、建议、主张、见解</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">记忆</Data></Cell>
+    <Cell><Data ss:Type="String">记忆</Data></Cell>
+    <Cell><Data ss:Type="String">印象、记忆力</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">判断</Data></Cell>
+    <Cell><Data ss:Type="String">判断</Data></Cell>
+    <Cell><Data ss:Type="String">是非、黑白</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">认知</Data></Cell>
+    <Cell><Data ss:Type="String">认知</Data></Cell>
+    <Cell><Data ss:Type="String">认识、思维、世界观、价值观、认识论</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">感觉</Data></Cell>
+    <Cell><Data ss:Type="String">感觉</Data></Cell>
+    <Cell><Data ss:Type="String">感觉、气氛、味觉、性、味道、滋味</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">心理</Data></Cell>
+    <Cell><Data ss:Type="String">意愿</Data></Cell>
+    <Cell><Data ss:Type="String">爱好</Data></Cell>
+    <Cell><Data ss:Type="String">爱好、兴趣</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">情感</Data></Cell>
+    <Cell><Data ss:Type="String">情感</Data></Cell>
+    <Cell><Data ss:Type="String">情感、爱情、情绪、情</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">意识</Data></Cell>
+    <Cell><Data ss:Type="String">精神意识、心理活动</Data></Cell>
+    <Cell><Data ss:Type="String">精神、心理、感情、心情、意识、记忆、意志、毅力、梦、灵魂、心灵、主意、想法、、思想、构思</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">共同梦想</Data></Cell>
+    <Cell><Data ss:Type="String">意志、信仰</Data></Cell>
+    <Cell><Data ss:Type="String">梦想、口号、顺口溜、理念、信仰</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">反馈</Data></Cell>
+    <Cell><Data ss:Type="String">反馈</Data></Cell>
+    <Cell><Data ss:Type="String">决心、决议</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">积极</Data></Cell>
+    <Cell><Data ss:Type="String">积极</Data></Cell>
+    <Cell><Data ss:Type="String">积极性</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">意图</Data></Cell>
+    <Cell><Data ss:Type="String">目的、意思、意义</Data></Cell>
+    <Cell><Data ss:Type="String">用途、作用、意义、意、意思、目的、要求、需求、需要、愿望、希望、理想、目标、战略、动机、前途</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">品质</Data></Cell>
+    <Cell><Data ss:Type="String">素质</Data></Cell>
+    <Cell><Data ss:Type="String">能力</Data></Cell>
+    <Cell><Data ss:Type="String">才气、大神、本领、能力、技艺、技能、特长、水平、资格、知识、力量、专业、功、功夫、智慧、本领</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">属性</Data></Cell>
+    <Cell><Data ss:Type="String">本质属性</Data></Cell>
+    <Cell><Data ss:Type="String">本质属性</Data></Cell>
+    <Cell><Data ss:Type="String">本质属性</Data></Cell>
+    <Cell><Data ss:Type="String">人性、人心</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">基本属性</Data></Cell>
+    <Cell><Data ss:Type="String">民族</Data></Cell>
+    <Cell><Data ss:Type="String">民族</Data></Cell>
+    <Cell><Data ss:Type="String">民族、汉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">籍贯</Data></Cell>
+    <Cell><Data ss:Type="String">籍贯</Data></Cell>
+    <Cell><Data ss:Type="String">籍贯</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">性别</Data></Cell>
+    <Cell><Data ss:Type="String">性别</Data></Cell>
+    <Cell><Data ss:Type="String">性别</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">年龄</Data></Cell>
+    <Cell><Data ss:Type="String">年龄</Data></Cell>
+    <Cell><Data ss:Type="String">年龄</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">身高</Data></Cell>
+    <Cell><Data ss:Type="String">身高</Data></Cell>
+    <Cell><Data ss:Type="String">身高</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">扩展属性</Data></Cell>
+    <Cell><Data ss:Type="String">学历</Data></Cell>
+    <Cell><Data ss:Type="String">学历</Data></Cell>
+    <Cell><Data ss:Type="String">学历</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">智力</Data></Cell>
+    <Cell><Data ss:Type="String">智力</Data></Cell>
+    <Cell><Data ss:Type="String">智力、智商</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">婚姻</Data></Cell>
+    <Cell><Data ss:Type="String">婚姻</Data></Cell>
+    <Cell><Data ss:Type="String">婚姻</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">职业</Data></Cell>
+    <Cell><Data ss:Type="String">职业</Data></Cell>
+    <Cell><Data ss:Type="String">职业</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">语言</Data></Cell>
+    <Cell><Data ss:Type="String">语言</Data></Cell>
+    <Cell><Data ss:Type="String">普通话、粤语、英文</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">生理</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">反应</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">身体</Data></Cell>
+    <Cell><Data ss:Type="String">头及与头相关</Data></Cell>
+    <Cell><Data ss:Type="String">头及与头相关</Data></Cell>
+    <Cell><Data ss:Type="String">头、头发、额、皮屑、脖子、首、脑、大脑、头脑、脑子、脑袋、脸</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">颈</Data></Cell>
+    <Cell><Data ss:Type="String">颈</Data></Cell>
+    <Cell><Data ss:Type="String">脖子、颈、项</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">五官</Data></Cell>
+    <Cell><Data ss:Type="String">五官</Data></Cell>
+    <Cell><Data ss:Type="String">耳、耳朵、鼻、鼻子、喉、嘴、嘴巴、口、眼、眼睛、目光、眼光、眼泪、眼神、胡子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">口腔</Data></Cell>
+    <Cell><Data ss:Type="String">口腔</Data></Cell>
+    <Cell><Data ss:Type="String">牙、牙齿、舌、舌头</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">咽喉部</Data></Cell>
+    <Cell><Data ss:Type="String">咽喉部</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">内脏</Data></Cell>
+    <Cell><Data ss:Type="String">内脏</Data></Cell>
+    <Cell><Data ss:Type="String">心、心脏、胃、肠、肝</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">腹部</Data></Cell>
+    <Cell><Data ss:Type="String">腹部、胸腔</Data></Cell>
+    <Cell><Data ss:Type="String">腰、肺、肚子、肾、胸、腹、腔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">神经</Data></Cell>
+    <Cell><Data ss:Type="String">神经</Data></Cell>
+    <Cell><Data ss:Type="String">神经</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">组织</Data></Cell>
+    <Cell><Data ss:Type="String">组织</Data></Cell>
+    <Cell><Data ss:Type="String">血、血液、血管、毛孔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">皮肤</Data></Cell>
+    <Cell><Data ss:Type="String">皮肤</Data></Cell>
+    <Cell><Data ss:Type="String">肌肉、皮肤、肌、脂肪</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">手部</Data></Cell>
+    <Cell><Data ss:Type="String">手部</Data></Cell>
+    <Cell><Data ss:Type="String">手、左手、右手、手茧、手指、指甲、手指甲、指甲</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">脚部</Data></Cell>
+    <Cell><Data ss:Type="String">脚部</Data></Cell>
+    <Cell><Data ss:Type="String">腿、大腿、小腿、脚、脚趾、脚趾甲、足</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">人体结构</Data></Cell>
+    <Cell><Data ss:Type="String">人体结构</Data></Cell>
+    <Cell><Data ss:Type="String">身、身体、人体、身子、器官、全身、骨、背、屁股</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">四肢</Data></Cell>
+    <Cell><Data ss:Type="String">四肢</Data></Cell>
+    <Cell><Data ss:Type="String">手、双手、手脚</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">消化系统</Data></Cell>
+    <Cell><Data ss:Type="String">消化系统</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">内分泌系统</Data></Cell>
+    <Cell><Data ss:Type="String">内分泌系统</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">现象</Data></Cell>
+    <Cell><Data ss:Type="String">排泄分泌</Data></Cell>
+    <Cell><Data ss:Type="String">头皮</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">口腔</Data></Cell>
+    <Cell><Data ss:Type="String">口水</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">眼睛</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">鼻孔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">耳朵</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">肠道</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">皮肤</Data></Cell>
+    <Cell><Data ss:Type="String">汗</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">生殖器</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">其他内脏及消化系统分泌物</Data></Cell>
+    <Cell><Data ss:Type="String">尿</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">家庭</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">家、家庭、户</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">日用品</Data></Cell>
+    <Cell><Data ss:Type="String">电器</Data></Cell>
+    <Cell><Data ss:Type="String">空调、风扇</Data></Cell>
+    <Cell><Data ss:Type="String">空调、风扇、电视、电话、手机、灯</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">厨具</Data></Cell>
+    <Cell><Data ss:Type="String">菜刀、电饭煲</Data></Cell>
+    <Cell><Data ss:Type="String">菜刀、电饭煲、碗、筷子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">家具</Data></Cell>
+    <Cell><Data ss:Type="String">桌椅、沙发</Data></Cell>
+    <Cell><Data ss:Type="String">桌椅、桌、桌子、沙发、门</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">床具</Data></Cell>
+    <Cell><Data ss:Type="String">床、床单</Data></Cell>
+    <Cell><Data ss:Type="String">床、病床、床单</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">保健</Data></Cell>
+    <Cell><Data ss:Type="String">血糖仪、急救护理</Data></Cell>
+    <Cell><Data ss:Type="String">药、药品、药物</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">百货</Data></Cell>
+    <Cell><Data ss:Type="String">棉拖、口罩、足浴沐浴、马桶套、暖宝宝、浴巾、整理箱收纳盒、雨伞、暖宝、热水袋、梯子、置物架、拖把、压缩袋、收纳柜鞋柜、桌面收纳、衣物洗晒、衣物粘尘、垃圾桶、刷牙洗脸、梳子镜子、干发帽</Data></Cell>
+    <Cell><Data ss:Type="String">针、架、镜、镜子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">鲜花园艺</Data></Cell>
+    <Cell><Data ss:Type="String">园艺</Data></Cell>
+   </Row>
+   <Row ss:Index="169">
+    <Cell ss:Index="5"><Data ss:Type="String">商场</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">酒店酒吧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">其他</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">净化</Data></Cell>
+    <Cell><Data ss:Type="String">吸毒</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">降噪</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">滞尘</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">防护</Data></Cell>
+    <Cell><Data ss:Type="String">防风固沙</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">保持水土</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">调节气候</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">保护农田</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">活动</Data></Cell>
+    <Cell><Data ss:Type="String">婚礼</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">庆典</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">商务</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">手捧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">农资</Data></Cell>
+    <Cell><Data ss:Type="String">农药、除草剂、杀虫剂、杀菌剂、肥料</Data></Cell>
+    <Cell><Data ss:Type="String">农药、除草剂、杀虫剂、杀菌剂、肥料</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">宠物</Data></Cell>
+    <Cell><Data ss:Type="String">设施</Data></Cell>
+    <Cell><Data ss:Type="String">宠物服饰、狗厕所、宠物窝</Data></Cell>
+    <Cell><Data ss:Type="String">宠物服饰、狗厕所、宠物窝、窝</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">玩具</Data></Cell>
+    <Cell><Data ss:Type="String">猫抓板、猫玩具、猫笼</Data></Cell>
+    <Cell><Data ss:Type="String">猫抓板、猫玩具、猫笼</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">喂养</Data></Cell>
+    <Cell><Data ss:Type="String">猫粮、狗粮</Data></Cell>
+    <Cell><Data ss:Type="String">猫粮、狗粮、饲料</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">水族</Data></Cell>
+    <Cell><Data ss:Type="String">水草、水草泥、沉木、仿真水草、鱼缸、氧气泵、过滤器、水草灯、鱼粮、水质维护</Data></Cell>
+    <Cell><Data ss:Type="String">水草、水草泥、沉木、仿真水草、鱼缸、氧气泵、过滤器、水草灯、鱼粮、水质维护</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">社会</Data></Cell>
+    <Cell><Data ss:Type="String">组织机构</Data></Cell>
+    <Cell><Data ss:Type="String">政府</Data></Cell>
+    <Cell><Data ss:Type="String">政府</Data></Cell>
+    <Cell><Data ss:Type="String">委员会、党委、政府、机关、中央、党中央、财政、法院</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">世界、国家</Data></Cell>
+    <Cell><Data ss:Type="String">世界、国家</Data></Cell>
+    <Cell><Data ss:Type="String">国家、世界、全世界、全球、全国、国际、祖国、国、各国</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">社会</Data></Cell>
+    <Cell><Data ss:Type="String">社会</Data></Cell>
+    <Cell><Data ss:Type="String">社会</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">研究</Data></Cell>
+    <Cell><Data ss:Type="String">研究</Data></Cell>
+    <Cell><Data ss:Type="String">实验室</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">业务</Data></Cell>
+    <Cell><Data ss:Type="String">业务</Data></Cell>
+    <Cell><Data ss:Type="String">银行、合作社、医院</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">单位、编制</Data></Cell>
+    <Cell><Data ss:Type="String">单位</Data></Cell>
+    <Cell><Data ss:Type="String">企业、集团、公司、单位、部、部门、局、科、中心、行政、财务、办公室、营、连</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">团体、派系</Data></Cell>
+    <Cell><Data ss:Type="String">团体、派系</Data></Cell>
+    <Cell><Data ss:Type="String">集体、团、员、班、军队、队伍、队、大队、生产队、派、学、系、组、群、族、小组、部队、成员、代表人物、教徒、社、社团、公社、群体、部落、社员、教会、剧团、兵团、义和团、财团、代表团、社会团体、师团、团支部、党支部、支部</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">人类活动</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">活动概念</Data></Cell>
+    <Cell><Data ss:Type="String">活动概念</Data></Cell>
+    <Cell><Data ss:Type="String">活动概念</Data></Cell>
+    <Cell><Data ss:Type="String">运动、活动、行为、行动、动作</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">人造物概念</Data></Cell>
+    <Cell><Data ss:Type="String">人造物概念</Data></Cell>
+    <Cell><Data ss:Type="String">人造物概念</Data></Cell>
+    <Cell><Data ss:Type="String">产品、商品、食物</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">活动资源</Data></Cell>
+    <Cell><Data ss:Type="String">活动资源</Data></Cell>
+    <Cell><Data ss:Type="String">活动资源</Data></Cell>
+    <Cell><Data ss:Type="String">劳动力</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">活动规范</Data></Cell>
+    <Cell><Data ss:Type="String">准则</Data></Cell>
+    <Cell><Data ss:Type="String">准则</Data></Cell>
+    <Cell><Data ss:Type="String">制度、原则、标准、尺度、限度、准则、道德、制度、规定、规则、道德、法律、法、法则、政策、合同、协议、规范、指标、秩序、规范、纪律、条约、条例、礼、法则、纲领</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">权利与义务</Data></Cell>
+    <Cell><Data ss:Type="String">权利与义务</Data></Cell>
+    <Cell><Data ss:Type="String">责任</Data></Cell>
+    <Cell><Data ss:Type="String">责任、义务</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">衣（扮）</Data></Cell>
+    <Cell><Data ss:Type="String">穿戴</Data></Cell>
+    <Cell><Data ss:Type="String">头衣</Data></Cell>
+    <Cell><Data ss:Type="String">头衣</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体衣</Data></Cell>
+    <Cell><Data ss:Type="String">体衣</Data></Cell>
+    <Cell><Data ss:Type="String">衣服、服装</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">手套</Data></Cell>
+    <Cell><Data ss:Type="String">手套</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">足衣</Data></Cell>
+    <Cell><Data ss:Type="String">足衣</Data></Cell>
+    <Cell><Data ss:Type="String">鞋</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">配饰</Data></Cell>
+    <Cell><Data ss:Type="String">手表、眼镜、珠宝</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">首饰</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">钻石</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">戒指</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">携带</Data></Cell>
+    <Cell><Data ss:Type="String">箱包</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">儿童</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">旅行</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">野外</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">装扮</Data></Cell>
+    <Cell><Data ss:Type="String">化妆品</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">化妆</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">美妆</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">食</Data></Cell>
+    <Cell><Data ss:Type="String">食品</Data></Cell>
+    <Cell><Data ss:Type="String">肉、蛋、奶、烟、酒、零食</Data></Cell>
+    <Cell><Data ss:Type="String">肉类</Data></Cell>
+    <Cell><Data ss:Type="String">肉、鱼肉、牛肉、羊肉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">禽类</Data></Cell>
+    <Cell><Data ss:Type="String">狗肉、猪肉、鸭肉、鸡肉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">蛋类</Data></Cell>
+    <Cell><Data ss:Type="String">蛋、鸡蛋</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">奶类</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">水产</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">半成品</Data></Cell>
+    <Cell><Data ss:Type="String">面、粉、粮食、粮、米、大米</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">糕点</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">调料</Data></Cell>
+    <Cell><Data ss:Type="String">盐、糖、油</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">烟酒、饮料</Data></Cell>
+    <Cell><Data ss:Type="String">饮料、酒、烟、茶</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">零食</Data></Cell>
+    <Cell><Data ss:Type="String">糖</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">生鲜</Data></Cell>
+    <Cell><Data ss:Type="String">果</Data></Cell>
+    <Cell><Data ss:Type="String">果</Data></Cell>
+    <Cell><Data ss:Type="String">果、苹果、水果</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">素菜、蔬菜</Data></Cell>
+    <Cell><Data ss:Type="String">茎叶类</Data></Cell>
+    <Cell><Data ss:Type="String">大白菜、包菜、生菜、油麦菜、苗</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">瓜果茄根</Data></Cell>
+    <Cell><Data ss:Type="String">南瓜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">块茎类</Data></Cell>
+    <Cell><Data ss:Type="String">红薯、茭白、姜、菱角、土豆、山药</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">美食</Data></Cell>
+    <Cell><Data ss:Type="String">中式</Data></Cell>
+    <Cell><Data ss:Type="String">鲁菜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">潮汕菜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">江浙菜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">川湘菜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">粤菜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">海鲜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">西式</Data></Cell>
+    <Cell><Data ss:Type="String">东南亚</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">泰国菜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">日韩</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">茶餐厅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">休闲</Data></Cell>
+    <Cell><Data ss:Type="String">咖啡厅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">甜品</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">下午茶</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">比萨</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">小吃</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">自助</Data></Cell>
+    <Cell><Data ss:Type="String">火锅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">自助餐</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">烧烤</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">辅餐</Data></Cell>
+    <Cell><Data ss:Type="String">汤</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">粥</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">面食</Data></Cell>
+    <Cell><Data ss:Type="String">饭、面、饺子、云吞</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">菜系</Data></Cell>
+    <Cell><Data ss:Type="String">热门菜、凉菜、地方菜、特色菜</Data></Cell>
+    <Cell><Data ss:Type="String">菜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">时间</Data></Cell>
+    <Cell><Data ss:Type="String">早餐、中餐、午餐、宵夜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">规模</Data></Cell>
+    <Cell><Data ss:Type="String">聚餐、宴请</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">健康</Data></Cell>
+    <Cell><Data ss:Type="String">健康、营养、美容、儿童、老人、滋补养生、疾病防治、促进消化、清热解毒、增强抵抗力、抗衰老</Data></Cell>
+    <Cell><Data ss:Type="String">营养</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">质量</Data></Cell>
+    <Cell><Data ss:Type="String">附近、卫生、干净、人少、最快</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">口味</Data></Cell>
+    <Cell><Data ss:Type="String">清淡、咸鲜、甜、辣、酸、苦、咖喱、水果味</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">住</Data></Cell>
+    <Cell><Data ss:Type="String">房</Data></Cell>
+    <Cell><Data ss:Type="String">资产</Data></Cell>
+    <Cell><Data ss:Type="String">资产</Data></Cell>
+    <Cell><Data ss:Type="String">楼、房、房子、房屋、屋子、屋、财产、遗产、业、产业</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">生产</Data></Cell>
+    <Cell><Data ss:Type="String">厂房、仓库</Data></Cell>
+    <Cell><Data ss:Type="String">厂房、车间、工厂、厂、灌溉机房、饲养房</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">住</Data></Cell>
+    <Cell><Data ss:Type="String">住宅、公寓、别墅、宿舍</Data></Cell>
+    <Cell><Data ss:Type="String">住宅、公寓、别墅、宿舍、房间、病房、院子、院</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">存储</Data></Cell>
+    <Cell><Data ss:Type="String">仓库</Data></Cell>
+    <Cell><Data ss:Type="String">仓库</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">中介</Data></Cell>
+    <Cell><Data ss:Type="String">地产</Data></Cell>
+    <Cell><Data ss:Type="String">链家地产、中原地产、裕丰地产</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">建材</Data></Cell>
+    <Cell><Data ss:Type="String">建材</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">装修</Data></Cell>
+    <Cell><Data ss:Type="String">装修</Data></Cell>
+    <Cell><Data ss:Type="String">壁、墙</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">租售</Data></Cell>
+    <Cell><Data ss:Type="String">租售</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">二手房</Data></Cell>
+    <Cell><Data ss:Type="String">二手房</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">新房</Data></Cell>
+    <Cell><Data ss:Type="String">新房</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">房价</Data></Cell>
+    <Cell><Data ss:Type="String">房价</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">楼盘</Data></Cell>
+    <Cell><Data ss:Type="String">楼盘</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">家政</Data></Cell>
+    <Cell><Data ss:Type="String">家政</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">搬家</Data></Cell>
+    <Cell><Data ss:Type="String">搬家</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">房屋交易</Data></Cell>
+    <Cell><Data ss:Type="String">房屋交易</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">用</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">设备、武装、装置、工具、器、机器、机械、机</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">办公</Data></Cell>
+    <Cell><Data ss:Type="String">文具事务（档案、书写、本薄）</Data></Cell>
+    <Cell><Data ss:Type="String">文具事务（档案、书写、本薄）</Data></Cell>
+    <Cell><Data ss:Type="String">笔记本、笔、本、纸、白板</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">办公耗材（打印、装订、IT通信）</Data></Cell>
+    <Cell><Data ss:Type="String">办公耗材（打印、装订、IT通信）</Data></Cell>
+    <Cell><Data ss:Type="String">打印机、装订夹条、路由器、电脑、键</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">办公日用</Data></Cell>
+    <Cell><Data ss:Type="String">办公日用</Data></Cell>
+    <Cell><Data ss:Type="String">排插、生活用纸、水杯、工作服</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">办公家具</Data></Cell>
+    <Cell><Data ss:Type="String">办公家具</Data></Cell>
+    <Cell><Data ss:Type="String">文件柜、更衣柜、多屉柜、杂柜、保险柜、办公桌、办公椅、档案柜、铁皮柜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">财务用品</Data></Cell>
+    <Cell><Data ss:Type="String">财务用品</Data></Cell>
+    <Cell><Data ss:Type="String">账本、凭证、印章、尺</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">五金</Data></Cell>
+    <Cell><Data ss:Type="String">常用</Data></Cell>
+    <Cell><Data ss:Type="String">常用</Data></Cell>
+    <Cell><Data ss:Type="String">钉子、螺丝、刀、轴</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">农具</Data></Cell>
+    <Cell><Data ss:Type="String">农具</Data></Cell>
+    <Cell><Data ss:Type="String">锄头</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">模具</Data></Cell>
+    <Cell><Data ss:Type="String">模具</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">加工</Data></Cell>
+    <Cell><Data ss:Type="String">加工</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">建筑</Data></Cell>
+    <Cell><Data ss:Type="String">建筑</Data></Cell>
+    <Cell><Data ss:Type="String">管</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">仪器仪表</Data></Cell>
+    <Cell><Data ss:Type="String">电容测量仪</Data></Cell>
+    <Cell><Data ss:Type="String">仪器、量、龠、合、升、斗、斛、、试管</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">电子元件</Data></Cell>
+    <Cell><Data ss:Type="String">电子元件</Data></Cell>
+    <Cell><Data ss:Type="String">表</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">车配</Data></Cell>
+    <Cell><Data ss:Type="String">车配</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">电工</Data></Cell>
+    <Cell><Data ss:Type="String">电工</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">化工</Data></Cell>
+    <Cell><Data ss:Type="String">化工</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">塑料</Data></Cell>
+    <Cell><Data ss:Type="String">塑料</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">原料</Data></Cell>
+    <Cell><Data ss:Type="String">原料</Data></Cell>
+    <Cell><Data ss:Type="String">钢材、原料</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">运输</Data></Cell>
+    <Cell><Data ss:Type="String">运输</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">消费电子</Data></Cell>
+    <Cell><Data ss:Type="String">代金券</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">折扣券</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">礼品券</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">团购券</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">通用券</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">百货</Data></Cell>
+    <Cell><Data ss:Type="String">日常用品</Data></Cell>
+    <Cell><Data ss:Type="String">棉拖、口罩、足浴沐浴、马桶套、暖宝宝、浴巾、带、板</Data></Cell>
+    <Cell><Data ss:Type="String">棉拖、口罩、足浴沐浴、马桶套、暖宝宝、浴巾、带</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">节日礼物</Data></Cell>
+    <Cell><Data ss:Type="String">圣诞品、礼品</Data></Cell>
+    <Cell><Data ss:Type="String">圣诞品、礼品、礼</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">过年筹办</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">生日会</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">活动布置</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">婚房布置</Data></Cell>
+    <Cell><Data ss:Type="String">喜糖盒</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">行</Data></Cell>
+    <Cell><Data ss:Type="String">交通</Data></Cell>
+    <Cell><Data ss:Type="String">交通工具、交通方式</Data></Cell>
+    <Cell><Data ss:Type="String">地铁、火车、公交车</Data></Cell>
+    <Cell><Data ss:Type="String">汽车、地铁、火车、公交车、自行车、三轮车、货车、轮船、游艇、船、车、飞机、拖拉机、航空</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">交通线路‎</Data></Cell>
+    <Cell><Data ss:Type="String">交通线路</Data></Cell>
+    <Cell><Data ss:Type="String">路线、线路</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">交通组织‎</Data></Cell>
+    <Cell><Data ss:Type="String">交通组织‎</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">交通设施</Data></Cell>
+    <Cell><Data ss:Type="String">地铁站、公交站、收费站、道路、路、公路、马路、路径</Data></Cell>
+    <Cell><Data ss:Type="String">轨道、地铁站、公交站、收费站、道路、路、公路、马路、路径、站、铁路、街道</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">交通场所</Data></Cell>
+    <Cell><Data ss:Type="String">停车场、飞机场</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">票务</Data></Cell>
+    <Cell><Data ss:Type="String">火车票</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">飞机票</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">乐</Data></Cell>
+    <Cell><Data ss:Type="String">旅游服务</Data></Cell>
+    <Cell><Data ss:Type="String">住宿</Data></Cell>
+    <Cell><Data ss:Type="String">市中心</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">郊区</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">海滨</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">附近</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">便宜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">服务好</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">服务</Data></Cell>
+    <Cell><Data ss:Type="String">专车接送</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">一条龙</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">包吃住</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">个性服务</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">票务</Data></Cell>
+    <Cell><Data ss:Type="String">车票</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">送票上门</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">找景点</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">找优惠</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">旅游地</Data></Cell>
+    <Cell><Data ss:Type="String">地区季节</Data></Cell>
+    <Cell><Data ss:Type="String">当季最好玩</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">周边游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">国内游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">香港、澳门、台湾</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">日本、韩国</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">印度尼西亚、马来西亚、泰国</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">欧洲</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">美洲</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">主题</Data></Cell>
+    <Cell><Data ss:Type="String">古镇游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">山水游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">海岛游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">乐园游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">蜜月游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">爸妈游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">亲子游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">温泉游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">音乐之旅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">科技游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">考察</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">人文探索</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">赛事庆典</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">拓展提升</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">摄影之旅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">特色主题游</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">民族特色</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">适宜人群</Data></Cell>
+    <Cell><Data ss:Type="String">家庭</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">情侣</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">个人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">老人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">商务</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">公司</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">朋友</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">同学</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">动漫</Data></Cell>
+    <Cell><Data ss:Type="String">分类</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">地区</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">声优</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">动漫服饰</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">手办</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">展会</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">影视</Data></Cell>
+    <Cell><Data ss:Type="String">分类</Data></Cell>
+    <Cell><Data ss:Type="String">分类</Data></Cell>
+    <Cell><Data ss:Type="String">喜剧、剧种、剧目</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">地区</Data></Cell>
+    <Cell><Data ss:Type="String">地区</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">放映器材</Data></Cell>
+    <Cell><Data ss:Type="String">放映器材</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">热门电影</Data></Cell>
+    <Cell><Data ss:Type="String">热门电影</Data></Cell>
+    <Cell><Data ss:Type="String">电影</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">找影院</Data></Cell>
+    <Cell><Data ss:Type="String">找影院</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">电视剧</Data></Cell>
+    <Cell><Data ss:Type="String">电视剧</Data></Cell>
+    <Cell><Data ss:Type="String">剧、剧场、电视剧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">即将上映</Data></Cell>
+    <Cell><Data ss:Type="String">即将上映</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">游戏</Data></Cell>
+    <Cell><Data ss:Type="String">分类</Data></Cell>
+    <Cell><Data ss:Type="String">竞技、客户端、网游、小游戏</Data></Cell>
+    <Cell><Data ss:Type="String">牌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">点卡</Data></Cell>
+    <Cell><Data ss:Type="String">网络游戏</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">手机游戏</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">道具金币</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">QQ专区</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">娱乐、文化</Data></Cell>
+    <Cell><Data ss:Type="String">文娱服务</Data></Cell>
+    <Cell><Data ss:Type="String">剧院、现场乐队和马戏团服务</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">文化服务</Data></Cell>
+    <Cell><Data ss:Type="String">图书馆、档案馆、博物馆和其它</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">娱乐消费</Data></Cell>
+    <Cell><Data ss:Type="String">购物</Data></Cell>
+    <Cell><Data ss:Type="String">商店</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">其它</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">音乐&lt;演出/音乐&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">音乐</Data></Cell>
+    <Cell><Data ss:Type="String">音乐</Data></Cell>
+    <Cell><Data ss:Type="String">音乐、歌、歌曲、节奏、节拍、曲调</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">音乐器材</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">演唱会</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">歌手</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">热门</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">经典老歌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">胎教</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">儿歌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">好听</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">轻音乐</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">网络歌曲</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">dj</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">视听</Data></Cell>
+    <Cell><Data ss:Type="String">电台</Data></Cell>
+    <Cell><Data ss:Type="String">有声</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">主播</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">国内</Data></Cell>
+    <Cell><Data ss:Type="String">国内</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">国外</Data></Cell>
+    <Cell><Data ss:Type="String">国外</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">明星</Data></Cell>
+    <Cell><Data ss:Type="String">明星</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">热门</Data></Cell>
+    <Cell><Data ss:Type="String">相声、评书</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">舞蹈&lt;健身/减肥/演出&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">舞蹈分类</Data></Cell>
+    <Cell><Data ss:Type="String">交际</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">流行</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">儿童</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">老年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">舞蹈器材</Data></Cell>
+    <Cell><Data ss:Type="String">舞蹈器材</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">演出</Data></Cell>
+    <Cell><Data ss:Type="String">演出</Data></Cell>
+    <Cell><Data ss:Type="String">演出</Data></Cell>
+    <Cell><Data ss:Type="String">舞台、角色、演员</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">育</Data></Cell>
+    <Cell><Data ss:Type="String">生育</Data></Cell>
+    <Cell><Data ss:Type="String">备孕</Data></Cell>
+    <Cell><Data ss:Type="String">科学备孕、不孕不育、怀孕须知、如何受孕</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">怀孕</Data></Cell>
+    <Cell><Data ss:Type="String">孕检、注意事项、饮食搭配</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">生育</Data></Cell>
+    <Cell><Data ss:Type="String">待产分娩、产儿采购</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">育儿</Data></Cell>
+    <Cell><Data ss:Type="String">营养辅食</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">胎教</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">结婚</Data></Cell>
+    <Cell><Data ss:Type="String">摄影风格</Data></Cell>
+    <Cell><Data ss:Type="String">韩式摄影</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">日系摄影</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">中式摄影</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">古典摄影</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">欧美时尚</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">清新丽人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">结婚拍摄</Data></Cell>
+    <Cell><Data ss:Type="String">彩妆造型</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">个性写真</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">婚礼跟拍</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">婚礼筹备</Data></Cell>
+    <Cell><Data ss:Type="String">婚纱礼服</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">成衣定制</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">首饰推荐</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">婚庆公司</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">婚车租赁</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">服务</Data></Cell>
+    <Cell><Data ss:Type="String">治疗服务</Data></Cell>
+    <Cell><Data ss:Type="String">治疗</Data></Cell>
+    <Cell><Data ss:Type="String">手术</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">体检</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">查询</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">整容美容</Data></Cell>
+    <Cell><Data ss:Type="String">烧伤整形、颅颌面外科、手外科、显微外科、美容整形外科、美容牙科、疤痕整形、毛发整形、私处修复</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">社区服务</Data></Cell>
+    <Cell><Data ss:Type="String">预防针、计划生育</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">其它</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">文</Data></Cell>
+    <Cell><Data ss:Type="String">文化</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">文化、传统</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">节日</Data></Cell>
+    <Cell><Data ss:Type="String">元旦、春节、清明节、劳动节、端午节、中秋节、国庆节</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">礼仪</Data></Cell>
+    <Cell><Data ss:Type="String">西方礼仪</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">中国礼仪</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">餐桌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">宴会</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">教会</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">着装</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">戏剧</Data></Cell>
+    <Cell><Data ss:Type="String">剧院</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">戏剧</Data></Cell>
+    <Cell><Data ss:Type="String">戏、戏曲、戏剧、悲剧、喜剧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">剧团</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">剧本</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">话剧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">舞台剧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">Crossplay</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">摄影</Data></Cell>
+    <Cell><Data ss:Type="String">摄影器材‎</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">摄影师‎</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">‎摄影作品</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">艺术照</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">学习</Data></Cell>
+    <Cell><Data ss:Type="String">教育人物</Data></Cell>
+    <Cell><Data ss:Type="String">教育人物</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">教育服务</Data></Cell>
+    <Cell><Data ss:Type="String">初级教育服务</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">中等教育服务</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">高等教育服务</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">成人教育</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">其它</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">研究机构、教育机构</Data></Cell>
+    <Cell><Data ss:Type="String">学校、高等院校</Data></Cell>
+    <Cell><Data ss:Type="String">学校</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">研究单位、机构</Data></Cell>
+    <Cell><Data ss:Type="String">实验室</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">培训机构</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">环境</Data></Cell>
+    <Cell><Data ss:Type="String">环境</Data></Cell>
+    <Cell><Data ss:Type="String">大学、中学、初中、小学、幼儿园</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">场地</Data></Cell>
+    <Cell><Data ss:Type="String">场地</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">课程、科目</Data></Cell>
+    <Cell><Data ss:Type="String">课程、科目</Data></Cell>
+    <Cell><Data ss:Type="String">课程、课、课题、数学、教材、教学、科学、学科、科目、目、科、学、美术</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">证书</Data></Cell>
+    <Cell><Data ss:Type="String">证书</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">书</Data></Cell>
+    <Cell><Data ss:Type="String">书</Data></Cell>
+    <Cell><Data ss:Type="String">书</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">文学作品</Data></Cell>
+    <Cell><Data ss:Type="String">作品、寓言、著作</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">小说</Data></Cell>
+    <Cell><Data ss:Type="String">分类</Data></Cell>
+    <Cell><Data ss:Type="String">名著、玄幻、奇幻、武侠、仙侠、都市、悬疑、游戏、竞技、历史、军事、科幻、灵异、言情、穿越</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">热门</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">经典</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">完结</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">免费</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">男频</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">女频</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">体</Data></Cell>
+    <Cell><Data ss:Type="String">体育&lt;健身/减肥&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">体育术语</Data></Cell>
+    <Cell><Data ss:Type="String">体育术语</Data></Cell>
+    <Cell><Data ss:Type="String">体育</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体育组织‎</Data></Cell>
+    <Cell><Data ss:Type="String">体育组织‎</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">赛事机构‎</Data></Cell>
+    <Cell><Data ss:Type="String">赛事机构‎</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">基本项目</Data></Cell>
+    <Cell><Data ss:Type="String">足球、排球、篮球、羽毛球、乒乓球、手球、高尔夫球、赛跑、跨栏、标枪、跳高、跳运、马术、武术、自行车、帆船、皮化艇、柔道、击箭、佩箭、射箭、射击、游泳、跳板、举重、摔跤、网球等</Data></Cell>
+    <Cell><Data ss:Type="String">球</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体育器材</Data></Cell>
+    <Cell><Data ss:Type="String">竞技器材</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">国防军事</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">民间器材</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">儿童体育</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">伤残人</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">辅助性器材</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体育设施</Data></Cell>
+    <Cell><Data ss:Type="String">顶棚、护栏、看台、看台下的梯房以及辅助设施等</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体育场地</Data></Cell>
+    <Cell><Data ss:Type="String">体育场、体育馆、健身房、灯光球场、水上运动建筑、冰上运动设施、滑雪场、自行车赛车场、赛马场、射击场、飞碟射击场、射箭场、高尔夫球场、网球场、棒球垒球场</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体育竞赛</Data></Cell>
+    <Cell><Data ss:Type="String">综合性运动会、单项锦标赛、等级赛、联赛、邀请赛、通讯赛、选拔赛、表演赛等</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体育赛事</Data></Cell>
+    <Cell><Data ss:Type="String">联合会杯、美洲杯、亚洲杯、欧洲杯、田径世锦赛、nba、乒乓球、羽毛球世锦赛、网球大满贯、NFL、NHL、体操世锦赛、环法自行车赛、游泳世锦赛等</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体育票务</Data></Cell>
+    <Cell><Data ss:Type="String">体彩、门票</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">世界杯</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">奥运会</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">活</Data></Cell>
+    <Cell><Data ss:Type="String">生活、工作</Data></Cell>
+    <Cell><Data ss:Type="String">生活</Data></Cell>
+    <Cell><Data ss:Type="String">生活</Data></Cell>
+    <Cell><Data ss:Type="String">生活、经历、经验、习惯、习性</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">工作、职能</Data></Cell>
+    <Cell><Data ss:Type="String">工作、职能</Data></Cell>
+    <Cell><Data ss:Type="String">工作、工、事业、任务、职责、职能、岗位、使命、职责</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">行业、领域</Data></Cell>
+    <Cell><Data ss:Type="String">行业、领域</Data></Cell>
+    <Cell><Data ss:Type="String">教育、科研</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">交流</Data></Cell>
+    <Cell><Data ss:Type="String">交流</Data></Cell>
+    <Cell><Data ss:Type="String">说法、说辞、借口、学说、学术、论</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">信息传递</Data></Cell>
+    <Cell><Data ss:Type="String">信息传递</Data></Cell>
+    <Cell><Data ss:Type="String">命令、指示</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">反馈</Data></Cell>
+    <Cell><Data ss:Type="String">反馈</Data></Cell>
+    <Cell><Data ss:Type="String">报告</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">商讨</Data></Cell>
+    <Cell><Data ss:Type="String">商讨</Data></Cell>
+    <Cell><Data ss:Type="String">会议、会、大会、议会</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">日常活动</Data></Cell>
+    <Cell><Data ss:Type="String">快照、冲印、复印、传真</Data></Cell>
+    <Cell><Data ss:Type="String">快照、冲印、复印、传真</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">衣物/皮具洗护</Data></Cell>
+    <Cell><Data ss:Type="String">衣物/皮具洗护</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">搬家</Data></Cell>
+    <Cell><Data ss:Type="String">搬家公司</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">家政</Data></Cell>
+    <Cell><Data ss:Type="String">家政公司</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">居家维修</Data></Cell>
+    <Cell><Data ss:Type="String">钟表、钟、电脑、水电、家电维修</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体检中心</Data></Cell>
+    <Cell><Data ss:Type="String">体检中心</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">开锁</Data></Cell>
+    <Cell><Data ss:Type="String">开锁服务中心</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">物流快递</Data></Cell>
+    <Cell><Data ss:Type="String">快递公司</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">裁缝改衣</Data></Cell>
+    <Cell><Data ss:Type="String">改衣店</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">修鞋</Data></Cell>
+    <Cell><Data ss:Type="String">修鞋店</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">送水/送奶站</Data></Cell>
+    <Cell><Data ss:Type="String">送水/送奶站</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">管道疏通</Data></Cell>
+    <Cell><Data ss:Type="String">管道疏通物业中心</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">房屋地产</Data></Cell>
+    <Cell><Data ss:Type="String">地产中介</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">旅行社</Data></Cell>
+    <Cell><Data ss:Type="String">旅行社</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">银行</Data></Cell>
+    <Cell><Data ss:Type="String">银行</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">通信营业厅</Data></Cell>
+    <Cell><Data ss:Type="String">通信营业厅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">回收</Data></Cell>
+    <Cell><Data ss:Type="String">资源回收</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">售票点</Data></Cell>
+    <Cell><Data ss:Type="String">售票点、代理中心</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">演出票务</Data></Cell>
+    <Cell><Data ss:Type="String">演出门票、旅游门票</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">交通</Data></Cell>
+    <Cell><Data ss:Type="String">飞机班次、火车查询、地铁查询、公交查询</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">厕所</Data></Cell>
+    <Cell><Data ss:Type="String">厕所、洗手间</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">小区</Data></Cell>
+    <Cell><Data ss:Type="String">全国各地小区</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">商圈</Data></Cell>
+    <Cell><Data ss:Type="String">各地商圈</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">政府机构</Data></Cell>
+    <Cell><Data ss:Type="String">各地政府</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">网站</Data></Cell>
+    <Cell><Data ss:Type="String">各分类网站</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">军事活动</Data></Cell>
+    <Cell><Data ss:Type="String">武器</Data></Cell>
+    <Cell><Data ss:Type="String">武器</Data></Cell>
+    <Cell><Data ss:Type="String">枪支、枪、手枪、火箭</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">军事、政治</Data></Cell>
+    <Cell><Data ss:Type="String">军事</Data></Cell>
+    <Cell><Data ss:Type="String">战争、军事、革命、反革命、社会主义革命、文化大革命、民主革命、资产阶级革命、十月革命、辛亥革命、新民主主义革命、产业革命、土地革命</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">金</Data></Cell>
+    <Cell><Data ss:Type="String">金融、贸易</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">流通工具、手段</Data></Cell>
+    <Cell><Data ss:Type="String">流通工具、手段</Data></Cell>
+    <Cell><Data ss:Type="String">钱、钱财、银元、元宝、黄金、金、银、货币、外汇、财富、资金、黄金</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">贸易</Data></Cell>
+    <Cell><Data ss:Type="String">贸易</Data></Cell>
+    <Cell><Data ss:Type="String">出口、交易、买卖</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">银行</Data></Cell>
+    <Cell><Data ss:Type="String">银行</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">保险</Data></Cell>
+    <Cell><Data ss:Type="String">保险</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">第三方支付、担保、借贷</Data></Cell>
+    <Cell><Data ss:Type="String">第三方支付、担保、借贷</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">股票、期货、债券</Data></Cell>
+    <Cell><Data ss:Type="String">股票、期货、债券</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">众筹</Data></Cell>
+    <Cell><Data ss:Type="String">众筹</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">基金、托管、信托</Data></Cell>
+    <Cell><Data ss:Type="String">基金、托管、信托</Data></Cell>
+    <Cell><Data ss:Type="String">基金</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">证劵、股票、理财</Data></Cell>
+    <Cell><Data ss:Type="String">证劵、股票、理财</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">金融咨询、证券研究</Data></Cell>
+    <Cell><Data ss:Type="String">金融咨询、证券研究</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">说</Data></Cell>
+    <Cell><Data ss:Type="String">沟通</Data></Cell>
+    <Cell><Data ss:Type="String">语言</Data></Cell>
+    <Cell><Data ss:Type="String">语言</Data></Cell>
+    <Cell><Data ss:Type="String">话、一句话、谈话、语言、语、言语、言、语音、方言</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">描绘</Data></Cell>
+    <Cell><Data ss:Type="String">描绘</Data></Cell>
+    <Cell><Data ss:Type="String">图形、画、绘画、照片、相、文字、字、字符、标志、符号</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">信息</Data></Cell>
+    <Cell><Data ss:Type="String">图文</Data></Cell>
+    <Cell><Data ss:Type="String">信息、数据、消息、信、资料、生产资料、文件</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">植物</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">作物</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">食用</Data></Cell>
+    <Cell><Data ss:Type="String">粗粮</Data></Cell>
+    <Cell><Data ss:Type="String">谷</Data></Cell>
+    <Cell><Data ss:Type="String">谷、种子</Data></Cell>
+    <Cell><Data ss:Type="String">谷、水稻、种子、小麦、玉米、庄稼</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">经济作物</Data></Cell>
+    <Cell><Data ss:Type="String">经济作物</Data></Cell>
+    <Cell><Data ss:Type="String">经济作物</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">季节</Data></Cell>
+    <Cell><Data ss:Type="String">季节</Data></Cell>
+    <Cell><Data ss:Type="String">季节</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">药用</Data></Cell>
+    <Cell><Data ss:Type="String">药用</Data></Cell>
+    <Cell><Data ss:Type="String">药用</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">美颜</Data></Cell>
+    <Cell><Data ss:Type="String">美颜</Data></Cell>
+    <Cell><Data ss:Type="String">美颜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">滋补</Data></Cell>
+    <Cell><Data ss:Type="String">滋补</Data></Cell>
+    <Cell><Data ss:Type="String">滋补</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">助消化</Data></Cell>
+    <Cell><Data ss:Type="String">助消化</Data></Cell>
+    <Cell><Data ss:Type="String">助消化</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">免疫</Data></Cell>
+    <Cell><Data ss:Type="String">免疫</Data></Cell>
+    <Cell><Data ss:Type="String">免疫</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">解毒</Data></Cell>
+    <Cell><Data ss:Type="String">解毒</Data></Cell>
+    <Cell><Data ss:Type="String">解毒</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">祛湿</Data></Cell>
+    <Cell><Data ss:Type="String">祛湿</Data></Cell>
+    <Cell><Data ss:Type="String">祛湿</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">饮食注意</Data></Cell>
+    <Cell><Data ss:Type="String">肥胖</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">胃痛</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">高血压</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">冠心病</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">农产品</Data></Cell>
+    <Cell><Data ss:Type="String">农产品</Data></Cell>
+    <Cell><Data ss:Type="String">农产品</Data></Cell>
+    <Cell><Data ss:Type="String">稻子、小麦、高粱、棉花、烟叶、甘蔗、棉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">绿化</Data></Cell>
+    <Cell><Data ss:Type="String">花</Data></Cell>
+    <Cell><Data ss:Type="String">花</Data></Cell>
+    <Cell><Data ss:Type="String">花</Data></Cell>
+    <Cell><Data ss:Type="String">花、鲜花、叶、叶子、叶片、花粉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">草</Data></Cell>
+    <Cell><Data ss:Type="String">草</Data></Cell>
+    <Cell><Data ss:Type="String">草</Data></Cell>
+    <Cell><Data ss:Type="String">草</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">竹</Data></Cell>
+    <Cell><Data ss:Type="String">竹</Data></Cell>
+    <Cell><Data ss:Type="String">竹</Data></Cell>
+    <Cell><Data ss:Type="String">竹</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">树</Data></Cell>
+    <Cell><Data ss:Type="String">树</Data></Cell>
+    <Cell><Data ss:Type="String">树</Data></Cell>
+    <Cell><Data ss:Type="String">树、树林、果树、森林、树木、林、木、枝、树枝、茶、松</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">结构</Data></Cell>
+    <Cell><Data ss:Type="String">细胞</Data></Cell>
+    <Cell><Data ss:Type="String">细胞</Data></Cell>
+    <Cell><Data ss:Type="String">细胞</Data></Cell>
+    <Cell><Data ss:Type="String">细胞</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">组织</Data></Cell>
+    <Cell><Data ss:Type="String">组织</Data></Cell>
+    <Cell><Data ss:Type="String">组织</Data></Cell>
+    <Cell><Data ss:Type="String">组织</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">器官</Data></Cell>
+    <Cell><Data ss:Type="String">根</Data></Cell>
+    <Cell><Data ss:Type="String">根</Data></Cell>
+    <Cell><Data ss:Type="String">根</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">茎</Data></Cell>
+    <Cell><Data ss:Type="String">茎</Data></Cell>
+    <Cell><Data ss:Type="String">茎、芽、胚</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">叶</Data></Cell>
+    <Cell><Data ss:Type="String">叶</Data></Cell>
+    <Cell><Data ss:Type="String">叶、叶子、树叶</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">花</Data></Cell>
+    <Cell><Data ss:Type="String">花</Data></Cell>
+    <Cell><Data ss:Type="String">花</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">果</Data></Cell>
+    <Cell><Data ss:Type="String">果</Data></Cell>
+    <Cell><Data ss:Type="String">果、果实、果子、核</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">植物体</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">动物</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">鱼类</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">属性</Data></Cell>
+    <Cell><Data ss:Type="String">属性</Data></Cell>
+    <Cell><Data ss:Type="String">属性</Data></Cell>
+    <Cell><Data ss:Type="String">属性</Data></Cell>
+    <Cell><Data ss:Type="String">公、母</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">地上</Data></Cell>
+    <Cell><Data ss:Type="String">禽</Data></Cell>
+    <Cell><Data ss:Type="String">家畜</Data></Cell>
+    <Cell><Data ss:Type="String">牛、羊、兔、猪、马、驴、猫、狗、绵羊山羊</Data></Cell>
+    <Cell><Data ss:Type="String">牛、羊、兔、猪、马、驴、猫、狗、绵羊山羊</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">家禽</Data></Cell>
+    <Cell><Data ss:Type="String">鸡、鸭、鹅、鸽</Data></Cell>
+    <Cell><Data ss:Type="String">鸡、鸭、鹅、鸽</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">兽</Data></Cell>
+    <Cell><Data ss:Type="String">兽类、鼠类、野生食草动物</Data></Cell>
+    <Cell><Data ss:Type="String">鼠、虎、兔、龙、蛇、猴、狮子、豹</Data></Cell>
+    <Cell><Data ss:Type="String">鼠、老鼠、虎、老虎、兔、龙、蛇、猴、狮子、豹、象、猴、虎、猴子、兔、鹿、兽、大象、狼</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">虫</Data></Cell>
+    <Cell><Data ss:Type="String">双翅目、蚤目、虱目、蜚蠊目、半翅目、鞘翅目、鳞翅目、膜翅目、直翅目</Data></Cell>
+    <Cell><Data ss:Type="String">蛐蛐、天牛、蝴蝶、蜻蜓、蜜蜂、螳螂、蝉、蚂蚁、飞蛾、金龟子、瓢虫、蚊子、苍蝇、蚂蚱、鼠妇、蝼跍、蚕</Data></Cell>
+    <Cell><Data ss:Type="String">蛐蛐、天牛、蝴蝶、蜻蜓、蜜蜂、螳螂、蝉、蚂蚁、飞蛾、金龟子、瓢虫、蚊子、苍蝇、蚂蚱、鼠妇、蝼跍、蚕、虫、幼虫、虫子、昆虫、蜜蜂、蝴蝶、害虫</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">爬</Data></Cell>
+    <Cell><Data ss:Type="String">龟鳖目、喙头目、鳞目、鳄目</Data></Cell>
+    <Cell><Data ss:Type="String">鳄鱼、龟、鳖、壁虎、蜥蜴、蛇、蟒</Data></Cell>
+    <Cell><Data ss:Type="String">鳄鱼、龟、鳖、壁虎、蜥蜴、蛇、蟒、蚕</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">栖</Data></Cell>
+    <Cell><Data ss:Type="String">无足目、有尾目、无尾目</Data></Cell>
+    <Cell><Data ss:Type="String">蛙、雨蛙、树蛙、蟾蜍、大鲵、蝾螈、蚓螈、吻蚓、鱼螈</Data></Cell>
+    <Cell><Data ss:Type="String">蛙、雨蛙、树蛙、蟾蜍、大鲵、蝾螈、蚓螈、吻蚓、鱼螈</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">天上</Data></Cell>
+    <Cell><Data ss:Type="String">鸟</Data></Cell>
+    <Cell><Data ss:Type="String">鸣禽、涉禽、水禽、攀禽、猛禽、陆禽、走禽</Data></Cell>
+    <Cell><Data ss:Type="String">猫头鹰</Data></Cell>
+    <Cell><Data ss:Type="String">猫头鹰、鸟类</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">水里</Data></Cell>
+    <Cell><Data ss:Type="String">软</Data></Cell>
+    <Cell><Data ss:Type="String">软件动物（含贝壳类）、腔肠动物</Data></Cell>
+    <Cell><Data ss:Type="String">贝壳</Data></Cell>
+    <Cell><Data ss:Type="String">贝壳</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">鱼</Data></Cell>
+    <Cell><Data ss:Type="String">淡水</Data></Cell>
+    <Cell><Data ss:Type="String">鲢鱼、草鱼、青鱼</Data></Cell>
+    <Cell><Data ss:Type="String">鲢鱼、草鱼、青鱼</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">海洋</Data></Cell>
+    <Cell><Data ss:Type="String">鲨鱼、小丑鱼、比目鱼、马林鱼、大马哈鱼、章鱼、鱿鱼、墨鱼</Data></Cell>
+    <Cell><Data ss:Type="String">鲨鱼、小丑鱼、比目鱼、马林鱼、大马哈鱼、章鱼、鱿鱼、墨鱼、龙</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">浮游</Data></Cell>
+    <Cell><Data ss:Type="String">细胞</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">生理</Data></Cell>
+    <Cell><Data ss:Type="String">动物结构</Data></Cell>
+    <Cell><Data ss:Type="String">组织</Data></Cell>
+    <Cell><Data ss:Type="String">组织</Data></Cell>
+    <Cell><Data ss:Type="String">毛</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">器官</Data></Cell>
+    <Cell><Data ss:Type="String">器官</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">系统</Data></Cell>
+    <Cell><Data ss:Type="String">系统</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">动物体</Data></Cell>
+    <Cell><Data ss:Type="String">动物体</Data></Cell>
+    <Cell><Data ss:Type="String">尾巴、尾、骨、翅膀</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">排泄分泌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">家养</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">野生</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">一级保护动物</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">绝种动物</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">哺乳动物</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">微生物</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">菌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">病毒</Data></Cell>
+    <Cell><Data ss:Type="String">动物病毒、植物病毒、细菌病毒、昆虫病毒及真菌病毒</Data></Cell>
+    <Cell><Data ss:Type="String">动物病毒、植物病毒、细菌病毒、昆虫病毒及真菌病毒</Data></Cell>
+    <Cell><Data ss:Type="String">动物病毒、植物病毒、细菌病毒、昆虫病毒及真菌病毒</Data></Cell>
+    <Cell><Data ss:Type="String">病毒、病菌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">细菌</Data></Cell>
+    <Cell><Data ss:Type="String">球菌、杆菌和螺形菌(包括号菌、螺菌、螺杆菌)</Data></Cell>
+    <Cell><Data ss:Type="String">球菌、杆菌和螺形菌(包括号菌、螺菌、螺杆菌)</Data></Cell>
+    <Cell><Data ss:Type="String">球菌、杆菌和螺形菌(包括号菌、螺菌、螺杆菌)</Data></Cell>
+    <Cell><Data ss:Type="String">杆菌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">蓝菌</Data></Cell>
+    <Cell><Data ss:Type="String">蓝菌</Data></Cell>
+    <Cell><Data ss:Type="String">蓝菌</Data></Cell>
+    <Cell><Data ss:Type="String">蓝菌</Data></Cell>
+    <Cell><Data ss:Type="String">念珠蓝细菌、颤蓝细菌、螺旋蓝细菌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">真菌</Data></Cell>
+    <Cell><Data ss:Type="String">酵母菌</Data></Cell>
+    <Cell><Data ss:Type="String">酵母菌</Data></Cell>
+    <Cell><Data ss:Type="String">酵母菌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">霉菌</Data></Cell>
+    <Cell><Data ss:Type="String">霉菌</Data></Cell>
+    <Cell><Data ss:Type="String">霉菌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">蕈菌</Data></Cell>
+    <Cell><Data ss:Type="String">蕈菌</Data></Cell>
+    <Cell><Data ss:Type="String">蕈菌</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">菇类</Data></Cell>
+    <Cell><Data ss:Type="String">毒菇</Data></Cell>
+    <Cell><Data ss:Type="String">豹斑毒伞</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">食用</Data></Cell>
+    <Cell><Data ss:Type="String">银耳、金针菇、竹荪、牛肝菌、马鞍、鬼笔蕈</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">药材</Data></Cell>
+    <Cell><Data ss:Type="String">灵芝</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">自然</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">现象、自然界、自然、自然科学</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">宇宙</Data></Cell>
+    <Cell><Data ss:Type="String">时间</Data></Cell>
+    <Cell><Data ss:Type="String">时辰</Data></Cell>
+    <Cell><Data ss:Type="String">时辰</Data></Cell>
+    <Cell><Data ss:Type="String">子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥、时间</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">星期</Data></Cell>
+    <Cell><Data ss:Type="String">星期</Data></Cell>
+    <Cell><Data ss:Type="String">星期日、星期一、星期二、星期三、星期四、星期五、星期六</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">日、月</Data></Cell>
+    <Cell><Data ss:Type="String">日、月</Data></Cell>
+    <Cell><Data ss:Type="String">号、天、日、月、月份、一月、二月、三月、四月、五月、六月、七月、八月、九月、十月、十一月、十二月</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">季节</Data></Cell>
+    <Cell><Data ss:Type="String">季节</Data></Cell>
+    <Cell><Data ss:Type="String">春、夏、秋、冬</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">差别</Data></Cell>
+    <Cell><Data ss:Type="String">差别</Data></Cell>
+    <Cell><Data ss:Type="String">同时</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">时期</Data></Cell>
+    <Cell><Data ss:Type="String">时期</Data></Cell>
+    <Cell><Data ss:Type="String">时期</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">白天</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">晚上</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">周末</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">第一季度</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">今年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">上半年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">下半年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">空间</Data></Cell>
+    <Cell><Data ss:Type="String">物质</Data></Cell>
+    <Cell><Data ss:Type="String">天上</Data></Cell>
+    <Cell><Data ss:Type="String">天、天空、太阳、地球、月球、月亮、星星、星、天体、恒星、卫星、行星</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">地面</Data></Cell>
+    <Cell><Data ss:Type="String">山、石、石头、岩石</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">星座</Data></Cell>
+    <Cell><Data ss:Type="String">白羊座、金牛座、双子座、巨蟹座、狮子座、处女座、天秤座、天蝎座、射手座、摩羯座、水瓶座、双鱼座</Data></Cell>
+    <Cell><Data ss:Type="String">白羊座、金牛座、双子座、巨蟹座、狮子座、处女座、天秤座、天蝎座、射手座、摩羯座、水瓶座、双鱼座</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">观测</Data></Cell>
+    <Cell><Data ss:Type="String">天球仪、望远镜</Data></Cell>
+    <Cell><Data ss:Type="String">天球仪、望远镜</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">形态</Data></Cell>
+    <Cell><Data ss:Type="String">气态</Data></Cell>
+    <Cell><Data ss:Type="String">气态</Data></Cell>
+    <Cell><Data ss:Type="String">有毒</Data></Cell>
+    <Cell><Data ss:Type="String">毒气、煤气</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">氧化</Data></Cell>
+    <Cell><Data ss:Type="String">氧气、氧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">易燃</Data></Cell>
+    <Cell><Data ss:Type="String">甲烷</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">可燃</Data></Cell>
+    <Cell><Data ss:Type="String">氨</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">挥发</Data></Cell>
+    <Cell><Data ss:Type="String">氨气、氯化氢</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">刺激</Data></Cell>
+    <Cell><Data ss:Type="String">二氧化硫</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">空气、气、气体、大气、二氧化碳、氮、氢、氢气、水蒸气</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">气味、味、气味</Data></Cell>
+    <Cell><Data ss:Type="String">腐味</Data></Cell>
+    <Cell><Data ss:Type="String">异味、变味</Data></Cell>
+    <Cell><Data ss:Type="String">异味、变味</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">腥味</Data></Cell>
+    <Cell><Data ss:Type="String">腥气</Data></Cell>
+    <Cell><Data ss:Type="String">腥气</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">药味</Data></Cell>
+    <Cell><Data ss:Type="String">药味</Data></Cell>
+    <Cell><Data ss:Type="String">药味</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">液态</Data></Cell>
+    <Cell><Data ss:Type="String">形态</Data></Cell>
+    <Cell><Data ss:Type="String">液态</Data></Cell>
+    <Cell><Data ss:Type="String">河、河流、海、湖、海水、大海、水、液、液体、水分</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">液+气</Data></Cell>
+    <Cell><Data ss:Type="String">氨水</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">质量</Data></Cell>
+    <Cell><Data ss:Type="String">干净</Data></Cell>
+    <Cell><Data ss:Type="String">蒸馏水</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">污浊</Data></Cell>
+    <Cell><Data ss:Type="String">馊水</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">固体</Data></Cell>
+    <Cell><Data ss:Type="String">形态</Data></Cell>
+    <Cell><Data ss:Type="String">粒状</Data></Cell>
+    <Cell><Data ss:Type="String">尘埃、灰尘、粉</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">块状</Data></Cell>
+    <Cell><Data ss:Type="String">土、灰土、土地、大地、陆地、岛、土壤、田、田地</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">沙状</Data></Cell>
+    <Cell><Data ss:Type="String">沙子、沙尘</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">片状</Data></Cell>
+    <Cell><Data ss:Type="String">尘土</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">火</Data></Cell>
+    <Cell><Data ss:Type="String">形态</Data></Cell>
+    <Cell><Data ss:Type="String">灰状</Data></Cell>
+    <Cell><Data ss:Type="String">火灰、火星</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">气状</Data></Cell>
+    <Cell><Data ss:Type="String">火焰、火苗</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">柱状</Data></Cell>
+    <Cell><Data ss:Type="String">火柱</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">片状</Data></Cell>
+    <Cell><Data ss:Type="String">火海</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">危害</Data></Cell>
+    <Cell><Data ss:Type="String">危害</Data></Cell>
+    <Cell><Data ss:Type="String">火灾</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">现象</Data></Cell>
+    <Cell><Data ss:Type="String">节气</Data></Cell>
+    <Cell><Data ss:Type="String">节气</Data></Cell>
+    <Cell><Data ss:Type="String">仲夏、午月、蒲月、榴月、中夏</Data></Cell>
+    <Cell><Data ss:Type="String">仲夏、午月、蒲月、榴月、中夏、节</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">状况</Data></Cell>
+    <Cell><Data ss:Type="String">天气、气候</Data></Cell>
+    <Cell><Data ss:Type="String">阴、晴、雨、多云</Data></Cell>
+    <Cell><Data ss:Type="String">阴、晴、雨、多云、天气、气温</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">气象</Data></Cell>
+    <Cell><Data ss:Type="String">气象</Data></Cell>
+    <Cell><Data ss:Type="String">风、云、雨、雪、霜、露、虹、晕、闪电、打雷</Data></Cell>
+    <Cell><Data ss:Type="String">风、云、雨、雪、霜、露、虹、晕、闪电、打雷、冰、云气、雾气、瘴气、气象</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">地形</Data></Cell>
+    <Cell><Data ss:Type="String">地形</Data></Cell>
+    <Cell><Data ss:Type="String">自然地形</Data></Cell>
+    <Cell><Data ss:Type="String">地形、地貌、平原、高山、山地、丘陵、山区、高原、洞、孔、沙漠</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">人造地形</Data></Cell>
+    <Cell><Data ss:Type="String">水库、池、井、殖民地</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">湖海</Data></Cell>
+    <Cell><Data ss:Type="String">湖海</Data></Cell>
+    <Cell><Data ss:Type="String">湖海</Data></Cell>
+    <Cell><Data ss:Type="String">波、波浪、风浪、潮、潮汐、湖、海</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">计算法</Data></Cell>
+    <Cell><Data ss:Type="String">天干</Data></Cell>
+    <Cell><Data ss:Type="String">天干</Data></Cell>
+    <Cell><Data ss:Type="String">甲、乙、丙、丁、戊、己、庚、辛、壬、癸</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">地支</Data></Cell>
+    <Cell><Data ss:Type="String">地支</Data></Cell>
+    <Cell><Data ss:Type="String">子、丑、寅、卯、辰、巳、午</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">生肖</Data></Cell>
+    <Cell><Data ss:Type="String">生肖</Data></Cell>
+    <Cell><Data ss:Type="String">鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">环境</Data></Cell>
+    <Cell><Data ss:Type="String">现象</Data></Cell>
+    <Cell><Data ss:Type="String">现象</Data></Cell>
+    <Cell><Data ss:Type="String">声、声音、音、云气、雾气、瘴气、蒸气、光、阳光、光线、月光、月色、灯光</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">预测</Data></Cell>
+    <Cell><Data ss:Type="String">气象台</Data></Cell>
+    <Cell><Data ss:Type="String">气象台</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">灾害</Data></Cell>
+    <Cell><Data ss:Type="String">地质灾害</Data></Cell>
+    <Cell><Data ss:Type="String">火山喷发、地震、山体崩塌、滑坡、泥石流</Data></Cell>
+    <Cell><Data ss:Type="String">火山喷发、地震、山体崩塌、滑坡、泥石流</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">海洋灾害</Data></Cell>
+    <Cell><Data ss:Type="String">风暴潮、海啸</Data></Cell>
+    <Cell><Data ss:Type="String">风暴潮、海啸</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">气象灾害</Data></Cell>
+    <Cell><Data ss:Type="String">干旱、洪涝、山洪、台风、龙卷风、冰雹、风雹、霜冻、暴雨、暴雪、冻雨、大雾、霾、雾霾、浮尘、扬沙、沙尘暴、雷电、雷暴、球状闪电</Data></Cell>
+    <Cell><Data ss:Type="String">干旱、洪涝、山洪、台风、龙卷风、冰雹、风雹、霜冻、暴雨、暴雪、冻雨、大雾、霾、雾霾、浮尘、扬沙、沙尘暴、雷电、雷暴、球状闪电</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">时空</Data></Cell>
+    <Cell><Data ss:Type="String">时间</Data></Cell>
+    <Cell><Data ss:Type="String">年</Data></Cell>
+    <Cell><Data ss:Type="String">年</Data></Cell>
+    <Cell><Data ss:Type="String">年</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">季</Data></Cell>
+    <Cell><Data ss:Type="String">季</Data></Cell>
+    <Cell><Data ss:Type="String">季</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">月</Data></Cell>
+    <Cell><Data ss:Type="String">月</Data></Cell>
+    <Cell><Data ss:Type="String">月</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">天</Data></Cell>
+    <Cell><Data ss:Type="String">天</Data></Cell>
+    <Cell><Data ss:Type="String">天</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">小于1天</Data></Cell>
+    <Cell><Data ss:Type="String">白天、中午、晚上、早上</Data></Cell>
+    <Cell><Data ss:Type="String">白天、中午、晚上、早上</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">时令</Data></Cell>
+    <Cell><Data ss:Type="String">时令</Data></Cell>
+    <Cell><Data ss:Type="String">时令</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">时间段</Data></Cell>
+    <Cell><Data ss:Type="String">前生今世</Data></Cell>
+    <Cell><Data ss:Type="String">前生今世</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">很久以前</Data></Cell>
+    <Cell><Data ss:Type="String">很久以前</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">早些时（过去将来时、过去完成时）</Data></Cell>
+    <Cell><Data ss:Type="String">早些时</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">某一瞬间</Data></Cell>
+    <Cell><Data ss:Type="String">某一瞬间</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">现在</Data></Cell>
+    <Cell><Data ss:Type="String">现在</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">将来</Data></Cell>
+    <Cell><Data ss:Type="String">将来</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">时辰名词</Data></Cell>
+    <Cell><Data ss:Type="String">时辰名词</Data></Cell>
+    <Cell><Data ss:Type="String">时辰名词</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">变化</Data></Cell>
+    <Cell><Data ss:Type="String">变化</Data></Cell>
+    <Cell><Data ss:Type="String">变化</Data></Cell>
+    <Cell><Data ss:Type="String">速度、变化、效率</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">频率</Data></Cell>
+    <Cell><Data ss:Type="String">频率</Data></Cell>
+    <Cell><Data ss:Type="String">频率</Data></Cell>
+    <Cell><Data ss:Type="String">频率、率</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">时间相关术语</Data></Cell>
+    <Cell><Data ss:Type="String">时间相关术语</Data></Cell>
+    <Cell><Data ss:Type="String">时间相关术语</Data></Cell>
+    <Cell><Data ss:Type="String">时候</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">其他</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">空间</Data></Cell>
+    <Cell><Data ss:Type="String">空间相关术语</Data></Cell>
+    <Cell><Data ss:Type="String">空间相关术语</Data></Cell>
+    <Cell><Data ss:Type="String">空间相关术语</Data></Cell>
+    <Cell><Data ss:Type="String">处所、地方、所在、地区、地、位、场地、地点、远处、场所、所、场、地面、位置、基地、天地</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">方位</Data></Cell>
+    <Cell><Data ss:Type="String">指定</Data></Cell>
+    <Cell><Data ss:Type="String">当地</Data></Cell>
+    <Cell><Data ss:Type="String">当地、本地、根据地</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">相对</Data></Cell>
+    <Cell><Data ss:Type="String">上下</Data></Cell>
+    <Cell><Data ss:Type="String">上下、上头、下头、上边、下边、底下</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">左右中间</Data></Cell>
+    <Cell><Data ss:Type="String">中、内、外、里、间、前后、左右、里外、内外、前边、后边、左右、左边、右边、当中、中间</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">前后</Data></Cell>
+    <Cell><Data ss:Type="String">前、后、前头、后头、里头、外头</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">相对</Data></Cell>
+    <Cell><Data ss:Type="String">旁边、旁、内外、外边、外界、里边、旁边、附近、周围、门口、大门</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">深浅</Data></Cell>
+    <Cell><Data ss:Type="String">深度</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">方向</Data></Cell>
+    <Cell><Data ss:Type="String">东、南、西、北</Data></Cell>
+    <Cell><Data ss:Type="String">东、南、西、北、东头、西头、东边、西边、南边、北边、角度、方向</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">距离</Data></Cell>
+    <Cell><Data ss:Type="String">平面</Data></Cell>
+    <Cell><Data ss:Type="String">平面</Data></Cell>
+    <Cell><Data ss:Type="String">平面、面积、长、长度、宽、距离、幅</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">体积</Data></Cell>
+    <Cell><Data ss:Type="String">体积</Data></Cell>
+    <Cell><Data ss:Type="String">体积、高度、高、方</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">区域</Data></Cell>
+    <Cell><Data ss:Type="String">地区</Data></Cell>
+    <Cell><Data ss:Type="String">地区</Data></Cell>
+    <Cell><Data ss:Type="String">亚洲、中国、江西</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">市中心</Data></Cell>
+    <Cell><Data ss:Type="String">市中心</Data></Cell>
+    <Cell><Data ss:Type="String">都会、都市、首都</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">州市县区</Data></Cell>
+    <Cell><Data ss:Type="String">州市县区</Data></Cell>
+    <Cell><Data ss:Type="String">市区、城市、州、省、县、镇、农村、乡、乡下、乡村、村、乡村、乡下、故乡、城乡、乡镇、村庄、村子、全村、山村、村落、村寨</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">区域</Data></Cell>
+    <Cell><Data ss:Type="String">区域</Data></Cell>
+    <Cell><Data ss:Type="String">地区、地带、区域、一带、一起、一块、范畴、范围、沿海、领土</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">兴趣点</Data></Cell>
+    <Cell><Data ss:Type="String">兴趣点</Data></Cell>
+    <Cell><Data ss:Type="String">饭店、邮局</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">描述</Data></Cell>
+    <Cell><Data ss:Type="String">地图</Data></Cell>
+    <Cell><Data ss:Type="String">地标、兴趣点</Data></Cell>
+    <Cell><Data ss:Type="String">地标、兴趣点、地图、赤道</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">测量</Data></Cell>
+    <Cell><Data ss:Type="String">工具</Data></Cell>
+    <Cell><Data ss:Type="String">指南针、陀螺仪</Data></Cell>
+    <Cell><Data ss:Type="String">指南针、陀螺仪</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">其他</Data></Cell>
+    <Cell><Data ss:Type="String">其他</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">抽象事物</Data></Cell>
+    <Cell><Data ss:Type="String">事物</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">对象</Data></Cell>
+    <Cell><Data ss:Type="String">无形</Data></Cell>
+    <Cell><Data ss:Type="String">事物</Data></Cell>
+    <Cell><Data ss:Type="String">事物、事、机会、事情、案、案件、事件、大事、故事、传说、神话、对象</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">有形</Data></Cell>
+    <Cell><Data ss:Type="String">东西</Data></Cell>
+    <Cell><Data ss:Type="String">东西、物、物体、物质、物资、资源、能源、能</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">形态</Data></Cell>
+    <Cell><Data ss:Type="String">形状</Data></Cell>
+    <Cell><Data ss:Type="String">款式、条纹、形状</Data></Cell>
+    <Cell><Data ss:Type="String">款式、条纹、形状、形体、条、形、状、态、丝、股、片、一团、丛、粒、包、环、格、杆、形状、叶片、网、颗粒、正方形、长方形、三角形、三角、四边形、平行四边形、菱形、锥形、梯形、圆、扇形、弓形、圆环、圈</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">外表</Data></Cell>
+    <Cell><Data ss:Type="String">外表</Data></Cell>
+    <Cell><Data ss:Type="String">样子、样、面貌、外表、外貌、像</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">情景</Data></Cell>
+    <Cell><Data ss:Type="String">情景</Data></Cell>
+    <Cell><Data ss:Type="String">情景、场景、景象、背景、画面、片段、场面</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">色彩</Data></Cell>
+    <Cell><Data ss:Type="String">色彩</Data></Cell>
+    <Cell><Data ss:Type="String">颜色、色彩、色、白色、绿色、红色、黑色、黄色、蓝色、灰色、紫色、花色、褐色、棕色、金色、色泽、青色、粉红色、五色、乳白色、金黄色、彩色</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">形式</Data></Cell>
+    <Cell><Data ss:Type="String">形式</Data></Cell>
+    <Cell><Data ss:Type="String">形式、式、表现、仪式</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">定义、文体</Data></Cell>
+    <Cell><Data ss:Type="String">定义、文体</Data></Cell>
+    <Cell><Data ss:Type="String">概念、标题、主题、题材、内容、摘要、领域、民间、序</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">数量</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+    <Cell><Data ss:Type="String">概念</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">数量</Data></Cell>
+    <Cell><Data ss:Type="String">数量</Data></Cell>
+    <Cell><Data ss:Type="String">定额、人数、数量、总量、数目、降水量</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">单数</Data></Cell>
+    <Cell><Data ss:Type="String">单数</Data></Cell>
+    <Cell><Data ss:Type="String">个体</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">范围</Data></Cell>
+    <Cell><Data ss:Type="String">少</Data></Cell>
+    <Cell><Data ss:Type="String">少数、少量</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">多</Data></Cell>
+    <Cell><Data ss:Type="String">大多数、多数</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">复数</Data></Cell>
+    <Cell><Data ss:Type="String">复数</Data></Cell>
+    <Cell><Data ss:Type="String">大部分、浑身、一身</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">程度</Data></Cell>
+    <Cell><Data ss:Type="String">力度</Data></Cell>
+    <Cell><Data ss:Type="String">力度</Data></Cell>
+    <Cell><Data ss:Type="String">强度、暴力、大力</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">大小</Data></Cell>
+    <Cell><Data ss:Type="String">大小</Data></Cell>
+    <Cell><Data ss:Type="String">大小</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">浓度</Data></Cell>
+    <Cell><Data ss:Type="String">浓度</Data></Cell>
+    <Cell><Data ss:Type="String">浓度</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">隐密</Data></Cell>
+    <Cell><Data ss:Type="String">隐密</Data></Cell>
+    <Cell><Data ss:Type="String">秘密</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">形势、境况</Data></Cell>
+    <Cell><Data ss:Type="String">危急</Data></Cell>
+    <Cell><Data ss:Type="String">危急、悲剧</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">形势、境况</Data></Cell>
+    <Cell><Data ss:Type="String">形势、趋势、势、优势、局面、局势、倾向、情形、情节、状态、程度、境况、处境、病情、现实</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">逻辑</Data></Cell>
+    <Cell><Data ss:Type="String">因果、因素</Data></Cell>
+    <Cell><Data ss:Type="String">因果、因素</Data></Cell>
+    <Cell><Data ss:Type="String">原因、病因、病原、困难、题、问题、障碍、因素、要素、理由、缘故、后果、缘</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">条件</Data></Cell>
+    <Cell><Data ss:Type="String">基础</Data></Cell>
+    <Cell><Data ss:Type="String">基础、经济基础、条件、前提、设施</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">假设</Data></Cell>
+    <Cell><Data ss:Type="String">假设</Data></Cell>
+    <Cell><Data ss:Type="String">假设、假说</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">方法</Data></Cell>
+    <Cell><Data ss:Type="String">计策、计划、办法、方法</Data></Cell>
+    <Cell><Data ss:Type="String">计策、计划、办法、作法、手法、把戏、方式、生活方式、做法、手段、措施、途径、技巧、捷径、决策、策略、方案、规划、基本、基本建设、建设</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">根据</Data></Cell>
+    <Cell><Data ss:Type="String">根据</Data></Cell>
+    <Cell><Data ss:Type="String">依据、证据</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">分层</Data></Cell>
+    <Cell><Data ss:Type="String">过程、阶段</Data></Cell>
+    <Cell><Data ss:Type="String">过程、病程、最后、尾、末、步骤、首次</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">节点</Data></Cell>
+    <Cell><Data ss:Type="String">节点</Data></Cell>
+    <Cell><Data ss:Type="String">环节、节点、进程、阶段</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">关系</Data></Cell>
+    <Cell><Data ss:Type="String">关系</Data></Cell>
+    <Cell><Data ss:Type="String">关系、关联、联系、友谊</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">成绩</Data></Cell>
+    <Cell><Data ss:Type="String">结果</Data></Cell>
+    <Cell><Data ss:Type="String">效果、成果、成就、成绩、成功、产物、结晶、作为</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">对立</Data></Cell>
+    <Cell><Data ss:Type="String">敌对</Data></Cell>
+    <Cell><Data ss:Type="String">矛盾、纠纷、罪、敌对、嫌隙、冤仇、把柄、斗争、阶级斗争</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">主次</Data></Cell>
+    <Cell><Data ss:Type="String">主次</Data></Cell>
+    <Cell><Data ss:Type="String">重点、关键</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">次序</Data></Cell>
+    <Cell><Data ss:Type="String">次序</Data></Cell>
+    <Cell><Data ss:Type="String">程序、顺序、序</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">几率</Data></Cell>
+    <Cell><Data ss:Type="String">几率</Data></Cell>
+    <Cell><Data ss:Type="String">运气、运气、命运、福祸、缘分、缘、可能性</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">并列</Data></Cell>
+    <Cell><Data ss:Type="String">并列</Data></Cell>
+    <Cell><Data ss:Type="String">前者、后者、两者</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">归纳</Data></Cell>
+    <Cell><Data ss:Type="String">归纳</Data></Cell>
+    <Cell><Data ss:Type="String">结论</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">划分</Data></Cell>
+    <Cell><Data ss:Type="String">划分</Data></Cell>
+    <Cell><Data ss:Type="String">边界、界限</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">对比</Data></Cell>
+    <Cell><Data ss:Type="String">分别、区别、差别、参考</Data></Cell>
+    <Cell><Data ss:Type="String">分别、区别、差别、差异、差距、例、例子</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">分层</Data></Cell>
+    <Cell><Data ss:Type="String">分层</Data></Cell>
+    <Cell><Data ss:Type="String">各级、级、等级、分层、层、层次</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">递进</Data></Cell>
+    <Cell><Data ss:Type="String">递进</Data></Cell>
+    <Cell><Data ss:Type="String">初、初步</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">结构、构造</Data></Cell>
+    <Cell><Data ss:Type="String">组成</Data></Cell>
+    <Cell><Data ss:Type="String">成分、含量、杂质、比重、比例、组成部分、组成</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5"><Data ss:Type="String">整体、部分、结构、分层</Data></Cell>
+    <Cell><Data ss:Type="String">整体、全部、全体、总体、全面、各方面、片面、一部分、一方面、一方、一面、部分、局部、余、结构、组织、体系、主体、部位、绝大部分</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">属性</Data></Cell>
+    <Cell><Data ss:Type="String">特性</Data></Cell>
+    <Cell><Data ss:Type="String">特性</Data></Cell>
+    <Cell><Data ss:Type="String">特点、特征、病症、特性、风格、特色、个性、功能、机能、创造性</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">属性</Data></Cell>
+    <Cell><Data ss:Type="String">属性</Data></Cell>
+    <Cell><Data ss:Type="String">属性、物种、种、种类、种群、类、类型、型、品种、数量、规模、大规模</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">品质</Data></Cell>
+    <Cell><Data ss:Type="String">品质</Data></Cell>
+    <Cell><Data ss:Type="String">品质、质量、缺点、优点、优越性、毛病、缺陷、错误、差</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">能力</Data></Cell>
+    <Cell><Data ss:Type="String">能力</Data></Cell>
+    <Cell><Data ss:Type="String">生命、命、生命力</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">性质</Data></Cell>
+    <Cell><Data ss:Type="String">性质</Data></Cell>
+    <Cell><Data ss:Type="String">温度、高温、度、硬度、密度、力度、重量</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">性能</Data></Cell>
+    <Cell><Data ss:Type="String">性能</Data></Cell>
+    <Cell><Data ss:Type="String">性能、稳定性</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">本质</Data></Cell>
+    <Cell><Data ss:Type="String">客观、主观</Data></Cell>
+    <Cell><Data ss:Type="String">客观、主观</Data></Cell>
+    <Cell><Data ss:Type="String">现实、实际、事实、真相、真理、原理、道理、理、哲理、客观、机制、客体、主观</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">根源</Data></Cell>
+    <Cell><Data ss:Type="String">根源</Data></Cell>
+    <Cell><Data ss:Type="String">来源、根源、源、出处、水源</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4"><Data ss:Type="String">本质</Data></Cell>
+    <Cell><Data ss:Type="String">本质</Data></Cell>
+    <Cell><Data ss:Type="String">规律、公式、定理、公理、定律、内在、本质、质、实质、本身、性质、本质上</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="String">其他事物相关术语</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

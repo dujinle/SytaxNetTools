@@ -1,0 +1,10 @@
+打扫/VERB
+买/VERB
+拿/VERB
+盖/VERB
+叫/VERB
+打/VERB
+下楼/VERB
+去/VERB
+接/VERB
+找/VERB
