@@ -1,0 +1,100 @@
+闹钟	N
+闹钟 设置	N RV
+设置 闹钟	RV N
+重新 打开 闹钟	LT RV N
+帮 我 设 1下 闹钟	RV RP RV NUNIT N
+新建 闹钟	RV N
+新建 1个 闹钟	RV NUNIT N
+我 要 设 闹钟	RP LV RV N
+设 个 闹钟	RV QS N
+设 个 闹铃	RV QS N
+弄 个 闹钟	RV QS N
+搞 个 闹钟	RV QS N
+建 个 闹钟	RV QS N
+来 个 闹钟	LV QS N
+调 个 闹钟	RV QS N
+来 设 个 闹钟	LV RV QS N
+来 调 个 闹钟	LV RV QS N
+折腾 个 闹钟	RV QS N
+倒腾 个 闹钟	RV QS N
+加 个 闹铃	LV QS N
+1点 叫 我	TIME RV RP
+1点 call 我	TIME RV RP
+1点 闹 1下	TIME RV NUNIT
+加 个 半个小时后 的 闹铃	LV QS TIME AUX N
+设 个 星期二早上6点 的 闹钟	RV QS TIME AUX N
+新建 1个 早上7点半 的 闹钟	RV NUNIT TIME AUX N
+加 3个 闹铃 9点 10点 11点	LV NUNIT N TIME TIME TIME
+加 2个 闹铃	LV NUNIT N
+打开 闹钟	RV N
+8点 提醒 我	TIME RV RP
+一小时后 提醒 我	TIME RV RP
+一个小时后 提醒 我	TIME RV RP
+加 1个 会议 的 闹钟 3点	LV NUNIT N AUX N TIME
+提醒 我 明天9点 去 取 护照	RV RP TIME LV RV NB
+明天8点 会议 很 重要 提醒 我	TIME N M M RV RP
+40分钟后 提醒 我 开会	TIME RV RP RV
+定 个 晚上10点 去 跑步 的 闹钟	RV QS TIME LV RV AUX N
+明天下午两点 出门	TIME RV
+15分钟后 出门	TIME RV
+早上6点 我 要 去 跑步	TIME RP LV LV RV
+早上7点 起床 给 媳妇 做 早饭	TIME RV LBEI NB RV N
+早上8点 去 上班	TIME LV RV
+9点30 有 个 项目会 要 开	TIME L QS N LV M
+提醒 我 9点30 有 个 项目会 要 开	RV RP TIME L QS N LV M
+公司 下午茶 订 在 15点30	NP N RV LV TIME
+晚上10点半 必须 回家	TIME LM RV
+提醒 我 晚上10点半 必须 回家	RV RP TIME LM RV
+提醒 我 赶 明天早上10点 的 飞机	RV RP RV TIME AUX N
+下午4点半 要 去 幼儿园 接 孩子	TIME LV LV N RV NB
+下周二 提醒 我 1点 去 机场 接 人	TIME RV RP TIME LV N RV N
+能 不 能 高 点 温度	LM LNO LM M QU N
+提高 1点 温度	LT M N
+温度 再 高 1点 点	N LV M M QU
+温度 调 高 1点	N RV M M
+把 温度 弄 高 点	LT N RV M QU
+把 温度 搞 高 点	LT N RV M QU
+把 温度 提 高 点	LT N RV M QU
+把 温度 整 高 点	LT N RV M QU
+1点 温度 都 没有	M N LL LNO
+温度 调 高	N RV M
+调 高 温度	RV M N
+温度 更 高	N M M
+把 空调 打开	LT N RV
+打开 热风	RV N
+打开 冷气	RV N
+打开 空调	RV N
+太 冷 了	LL M AUX
+冷 死 了	M M AUX
+温度 太 低 了	N LL M AUX
+温度 太 低	N LL M
+温度 真 低	N M M
+温度 这么 低	N TP M
+温度 很 低	N M M
+温度 不 够 高	N LNO M M
+温度 好 低	N M M
+没 温度 了	LNO N AUX
+没有 温度 了	LNO N AUX
+没 温度	LNO N
+没有 温度	LNO N
+没 暖气 了	LNO N AUX
+没有 暖气 了	LNO N AUX
+没 暖气	LNO N
+没有 暖气	LNO N
+没 热风	LNO N
+没 热风 了	LNO N AUX
+没有 热风	LNO N
+没有 热风 了	LNO N AUX
+温度 最高	N M
+最高 温度	M N
+把 温度 调到 最高	LT N LT M
+温度 最低	N M
+把 温度 调到 最低	LT N LT M
+最低 温度	M N
+温度 调到 25度	N LT NUNIT
+调到 25度	LT NUNIT
+把 空调 关 了	LT N M AUX
+把 空调 关掉	LT N RV
+关掉 热风	RV N
+关掉 冷气	RV N
+关掉 空调	RV N

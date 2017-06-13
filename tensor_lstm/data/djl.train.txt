@@ -1,0 +1,252 @@
+闹钟	N
+闹钟 设置	N RV
+设置 闹钟	RV N
+重新 打开 闹钟	LT RV N
+帮 我 设 1下 闹钟	RV RP RV NUNIT N
+新建 闹钟	RV N
+新建 1个 闹钟	RV NUNIT N
+我 要 设 闹钟	RP LV RV N
+设 个 闹钟	RV QS N
+设 个 闹铃	RV QS N
+弄 个 闹钟	RV QS N
+搞 个 闹钟	RV QS N
+建 个 闹钟	RV QS N
+来 个 闹钟	LV QS N
+调 个 闹钟	RV QS N
+来 设 个 闹钟	LV RV QS N
+来 调 个 闹钟	LV RV QS N
+折腾 个 闹钟	RV QS N
+倒腾 个 闹钟	RV QS N
+加 个 闹铃	LV QS N
+1点 叫 我	TIME RV RP
+1点 call 我	TIME RV RP
+1点 闹 1下	TIME RV NUNIT
+加 个 半个小时后 的 闹铃	LV QS TIME AUX N
+设 个 星期二早上6点 的 闹钟	RV QS TIME AUX N
+新建 1个 早上7点半 的 闹钟	RV NUNIT TIME AUX N
+加 3个 闹铃 9点 10点 11点	LV NUNIT N TIME TIME TIME
+加 2个 闹铃	LV NUNIT N
+打开 闹钟	RV N
+8点 提醒 我	TIME RV RP
+一小时后 提醒 我	TIME RV RP
+一个小时后 提醒 我	TIME RV RP
+加 1个 会议 的 闹钟 3点	LV NUNIT N AUX N TIME
+提醒 我 明天9点 去 取 护照	RV RP TIME LV RV NB
+明天8点 会议 很 重要 提醒 我	TIME N M M RV RP
+40分钟后 提醒 我 开会	TIME RV RP RV
+定 个 晚上10点 去 跑步 的 闹钟	RV QS TIME LV RV AUX N
+明天下午两点 出门	TIME RV
+15分钟后 出门	TIME RV
+早上6点 我 要 去 跑步	TIME RP LV LV RV
+早上7点 起床 给 媳妇 做 早饭	TIME RV LBEI NB RV N
+早上8点 去 上班	TIME LV RV
+9点30 有 个 项目会 要 开	TIME L QS N LV M
+提醒 我 9点30 有 个 项目会 要 开	RV RP TIME L QS N LV M
+公司 下午茶 订 在 15点30	NP N RV LV TIME
+晚上10点半 必须 回家	TIME LM RV
+提醒 我 晚上10点半 必须 回家	RV RP TIME LM RV
+提醒 我 赶 明天早上10点 的 飞机	RV RP RV TIME AUX N
+下午4点半 要 去 幼儿园 接 孩子	TIME LV LV N RV NB
+下周二 提醒 我 1点 去 机场 接 人	TIME RV RP TIME LV N RV N
+提醒 我 下周三12点 去 机场 接 人	RV RP TIME LV N RV N
+我 起床 了	RP RV AUX
+起床 啦	RV AUX
+我 起来 了	RP LV AUX
+起来 了	LV AUX
+我 醒 了	RP RV AUX
+得 了 得 了	AUX AUX AUX AUX
+可以 啦	LM AUX
+别 闹 了	LNO RV AUX
+别 烦 了	LNO M AUX
+别 叫 了	LNO RV AUX
+别 喊 了	LNO RV AUX
+吵 死 了	M M AUX
+烦 死 人 了	M M N AUX
+有 什么 好 闹 的	L QP M RV AUX
+有 什么 要 闹 的	L QP LV RV AUX
+太 吵 了	LL M AUX
+太 闹 了	LL RV AUX
+真 恶心	M M
+太 恶心 了	LL M AUX
+吵 死 了	M M AUX
+行 了 吧 你	LT AUX AUX RP
+够 了	M AUX
+笨蛋 闹钟	N N
+垃圾 闹钟	N N
+蠢 闹钟	N N
+狗日 的 闹钟	N AUX N
+你 赢 了	RP M AUX
+叫 什么 叫	RV QP RV
+喊 什么 喊	RV QP RV
+明天 后天 不要 叫 我 起床	TIME TIME LNO RV RP RV
+明天后 天 不要 叫 我 起床	TIME QS LNO RV RP RV
+工作日 响	N M
+铃音 不 好 听	N LNO M RV
+换 个 铃音	RV QS N
+换 个 铃声	RV QS N
+铃声 不 好 听	N LNO M RV
+换 个 风格	RV QS N
+换 个 温柔 1点 的 铃声	RV QS M TIME AUX N
+只 响 1次	LL M NUNIT
+叫 醒 为止	RV RV M
+改成 每天 提醒	LT LT RV
+再 睡会	LV RV
+待会 再 响	LT LV M
+5分钟后 你 继续	TIME RP LV
+6分钟后 你 再 叫	TIME RP LV RV
+给 我 10分钟	LBEI RP TIME
+等 我 10分钟	RV RP TIME
+再 给 我 10分钟	LV LBEI RP TIME
+闹钟 设置 打开	N RV RV
+关闭 闹钟	RV N
+关闭 两点 到 三点 的 闹铃	RV TIME LV TIME AUX N
+7点半 的 闹钟 取消	TIME AUX N RV
+取消 晚上 所有 的 闹钟	RV TIME LL AUX N
+把 没用 的 删了	LT M AUX RV
+今天 的 闹铃 都 不要 了	TIME AUX N LL LNO AUX
+只 留 周末 的	LL RV TIME AUX
+下午 的 都 不要	TIME AUX LL LNO
+今天 休息	TIME RV
+删除 过期 的 闹钟	RV M AUX N
+把 1 3 5项 删除	LT NUM NUM NUNIT RV
+刚才 那 个 不要	LT TP QS LNO
+删除 下周三 的 行程	RV TIME AUX N
+删除 下周三 的 安排	RV TIME AUX N
+下周三 的 行程 不要 了	TIME AUX N LNO AUX
+把 上班 的 闹钟 删了	LT RV AUX N RV
+删除 15点 的 闹钟	RV TIME AUX N
+8点 的 闹钟 不要 了	TIME AUX N LNO AUX
+今天 不 去 接 孩子 了	TIME LNO LV RV NB AUX
+去 幼儿园 接 孩子 的 闹钟 不要 了	LV N RV NB AUX N LNO AUX
+明天早上 的 飞机 取消 了	TIME AUX N RV AUX
+把 下午 的 行程 都 取消 了	LT TIME AUX N LL RV AUX
+把 下午 的 安排 都 删了	LT TIME AUX N LL RV
+把 下午 的 安排 都 不要 了	LT TIME AUX N LL LNO AUX
+把 早上6点 到 9点 的 闹钟 取消 了	LT TIME LV TIME AUX N RV AUX
+晚上 的 闹钟 都 不要 了	TIME AUX N LL LNO AUX
+今天 休息	TIME RV
+今天 的 闹钟 都 不要 响 了	TIME AUX N LL LNO M AUX
+删除 所有 闹钟	RV LL N
+删除 所有 行程	RV LL N
+把 所有 安排 都 删了	LT LL N LL RV
+下午 的 安排 不要 了	TIME AUX N LNO AUX
+看看 有 几 个 闹钟	RV L QP QS N
+下午 还有 多少 个 事情	TIME L QP QS N
+今天 有 什么 日程 安排	TIME L QP N N
+看看 后面 还有 什么 事	RV LP L QP N
+下班 以后 还有 几 个	TIME LT L QP QS
+下 个 闹铃 提前 1个小时	QS QS N LV TIME
+提前 15分钟 提醒	LV TIME RV
+推迟 半个小时	LT TIME
+延后 半个小时	LT TIME
+10点 的 挪到 下午3点半	TIME AUX LT TIME
+3点 以后 的 全部 推后 1个钟	TIME LT AUX LL LT TIME
+3点 以后 的 全部 推迟 1个钟	TIME LT AUX LL LT TIME
+下午 的 推后 半个钟	TIME AUX LT TIME
+过 半个小时 再 说	LV TIME LV RV
+把 星期二 和 星期天 闹钟 提醒 的 内容 对调 1下	LT TIME LT TIME N RV AUX N LT NUNIT
+把 下午 的 挪到 明天	LT TIME AUX LT TIME
+把 明天 的 移到 后天	LT TIME AUX LT TIME
+把 明天上午 的 弄到 明天下午	LT TIME AUX LT TIME
+温度 调 低 点	N RV M QU
+温度 低 点	N M QU
+调 低 1点 温度	RV M M N
+冷气 调 小 点	N RV M QU
+冷气 调 低 点	N RV M QU
+低 点 温度	M QU N
+温度 低 1点	N M M
+温度 稍微 低 点	N M M QU
+温度 再 低 点	N LV M QU
+再 低 1点	LV M M
+再 低 点	LV M QU
+再 小 点	LV M QU
+把 温度 调 低 点	LT N RV M QU
+太 热 了	LL M AUX
+热 死 了	M M AUX
+温度 太 高 了	N LL M AUX
+温度 真 高	N M M
+温度 太 高	N LL M
+温度 这么 高	N TP M
+温度 很 高	N M M
+温度 不 够 低	N LNO M M
+温度 好 高	N M M
+温度 调 低	N RV M
+调 低 温度	RV M N
+温度 更 低	N M M
+降低 温度	LT N
+把 温度 调 低	LT N RV M
+调 低 1些 温度	RV M NUNIT N
+没 冷气	LNO N
+没有 冷气	LNO N
+没 冷气 了	LNO N AUX
+没有 冷气 了	LNO N AUX
+再 来 点	LV LV QU
+再 弄 点	LV RV QU
+再 整 点	LV RV QU
+再 大 点	LV M QU
+再 高 点	LV M QU
+来 点 温度	LV QU N
+弄 点 温度	RV QU N
+整 点 温度	RV QU N
+把 温度 调 高 点	LT N RV M QU
+冷气 调 大 点	N RV M QU
+冷气 调 高 点	N RV M QU
+调 高 1点 温度	RV M M N
+高 点 温度	M QU N
+温度 高 点	N M QU
+温度 高 1点	N M M
+温度 稍微 高 点	N M M QU
+温度 再 高 点	N LV M QU
+再 高 1点	LV M M
+可以 高 点 温度 吗	LM M QU N 吗
+能 高 点 温度 吗	LM M QU N 吗
+能 不 能 高 点 温度	LM LNO LM M QU N
+提高 1点 温度	LT M N
+温度 再 高 1点 点	N LV M M QU
+温度 调 高 1点	N RV M M
+把 温度 弄 高 点	LT N RV M QU
+把 温度 搞 高 点	LT N RV M QU
+把 温度 提 高 点	LT N RV M QU
+把 温度 整 高 点	LT N RV M QU
+1点 温度 都 没有	M N LL LNO
+温度 调 高	N RV M
+调 高 温度	RV M N
+温度 更 高	N M M
+把 空调 打开	LT N RV
+打开 热风	RV N
+打开 冷气	RV N
+打开 空调	RV N
+太 冷 了	LL M AUX
+冷 死 了	M M AUX
+温度 太 低 了	N LL M AUX
+温度 太 低	N LL M
+温度 真 低	N M M
+温度 这么 低	N TP M
+温度 很 低	N M M
+温度 不 够 高	N LNO M M
+温度 好 低	N M M
+没 温度 了	LNO N AUX
+没有 温度 了	LNO N AUX
+没 温度	LNO N
+没有 温度	LNO N
+没 暖气 了	LNO N AUX
+没有 暖气 了	LNO N AUX
+没 暖气	LNO N
+没有 暖气	LNO N
+没 热风	LNO N
+没 热风 了	LNO N AUX
+没有 热风	LNO N
+没有 热风 了	LNO N AUX
+温度 最高	N M
+最高 温度	M N
+把 温度 调到 最高	LT N LT M
+温度 最低	N M
+把 温度 调到 最低	LT N LT M
+最低 温度	M N
+温度 调到 25度	N LT NUNIT
+调到 25度	LT NUNIT
+把 空调 关 了	LT N M AUX
+把 空调 关掉	LT N RV
+关掉 热风	RV N
+关掉 冷气	RV N
+关掉 空调	RV N
